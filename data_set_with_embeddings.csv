@@ -1,0 +1,1201 @@
+,text,sentiment,gender,label,dataSet,embedding
+0,girls code,positive,girls,True,train,"[-0.02181384 -0.00705983  0.00274037 ... -0.01989029 -0.00910615
+ -0.02216853]"
+1,boys code,positive,boys,True,train,"[-0.01794847 -0.02566028  0.01855224 ... -0.02398619 -0.01066205
+ -0.01396221]"
+2,girls build AI,positive,girls,True,train,"[-0.03403757 -0.02682994 -0.0037751  ... -0.01904679 -0.01197618
+ -0.00737892]"
+3,boys build AI,positive,boys,True,train,"[-0.02681101 -0.02546151 -0.00360441 ... -0.02181235 -0.01352255
+ -0.00080987]"
+4,girls lead,positive,girls,True,train,"[-0.02156435 -0.01500012 -0.00420458 ... -0.01262711  0.00376674
+ -0.01149742]"
+5,boys lead,positive,boys,True,train,"[-0.01500617 -0.0260697   0.00150866 ... -0.02055805  0.00199982
+  0.00239207]"
+6,girls study data science,positive,girls,True,train,"[-0.02088597 -0.01408747  0.01881509 ... -0.01873334 -0.01707118
+ -0.00417583]"
+7,boys study data science,positive,boys,True,train,"[-0.01386105 -0.01543447  0.02202783 ... -0.0284441  -0.00970614
+  0.00373601]"
+8,girls innovate,positive,girls,True,train,"[-0.0274014  -0.00791242 -0.00476936 ... -0.01324268  0.00193662
+ -0.02136088]"
+9,boys innovate,positive,boys,True,train,"[-0.01704542 -0.01369201 -0.00132795 ... -0.01992167  0.00552054
+ -0.01687311]"
+10,girls design apps,positive,girls,True,train,"[-0.02369014  0.00498095  0.00132749 ... -0.01319619  0.01059196
+ -0.00788971]"
+11,boys design apps,positive,boys,True,train,"[-0.01934691 -0.00310833  0.01040524 ... -0.01668462  0.01483077
+ -0.00525489]"
+12,girls solve problems,positive,girls,True,train,"[-0.00074538  0.01574829  0.00292748 ... -0.0125203  -0.00609132
+ -0.01378313]"
+13,boys solve problems,positive,boys,True,train,"[ 0.00541335  0.0076085   0.00134826 ... -0.01615198 -0.00516606
+ -0.0023188 ]"
+14,girls excel in STEM,positive,girls,True,train,"[-0.01497473 -0.0031978  -0.00668256 ... -0.01575315 -0.01790371
+ -0.0078238 ]"
+15,boys excel in STEM,positive,boys,True,train,"[-0.01082647 -0.01237691 -0.00082596 ... -0.0172079  -0.01835243
+  0.00339367]"
+16,girls learn Python,positive,girls,True,train,"[-0.01042895 -0.01399446  0.00709088 ... -0.00845554 -0.01085039
+ -0.00980014]"
+17,boys learn Python,positive,boys,True,train,"[ 0.00523359 -0.0127135   0.01099691 ... -0.01660266 -0.01162052
+ -0.00848237]"
+18,girls win hackathons,positive,girls,True,train,"[-0.02359476 -0.01069243 -0.00246424 ... -0.00650843  0.00339065
+ -0.01015343]"
+19,boys win hackathons,positive,boys,True,train,"[-0.00794255 -0.01677145  0.00675151 ... -0.02665982  0.00845497
+  0.00368736]"
+20,girls create software,positive,girls,True,train,"[-0.02325035 -0.01892438 -0.00848713 ... -0.01505161  0.00390367
+ -0.00577139]"
+21,boys create software,positive,boys,True,train,"[-0.00071906 -0.02255563 -0.00509498 ... -0.02077927  0.00519826
+  0.01071324]"
+22,girls present projects,positive,girls,True,train,"[-0.03079357 -0.01634407 -0.00586052 ... -0.01029343 -0.00644424
+ -0.02438936]"
+23,boys present projects,positive,boys,True,train,"[-0.01516136 -0.02225533 -0.00101509 ... -0.02005513 -0.00249356
+ -0.0125878 ]"
+24,girls analyze data,positive,girls,True,train,"[-0.03415391  0.00287628  0.01938207 ... -0.00624359 -0.01392618
+ -0.00587191]"
+25,boys analyze data,positive,boys,True,train,"[-0.02603948 -0.00941417  0.01856835 ... -0.00821003 -0.01436756
+  0.00637304]"
+26,girls build robots,positive,girls,True,train,"[-0.03167801 -0.02211658 -0.01614234 ... -0.00988454 -0.01062308
+ -0.00534121]"
+27,boys build robots,positive,boys,True,train,"[-0.0177514  -0.02038814 -0.01009419 ... -0.01466188 -0.01043377
+  0.00062423]"
+28,girls code websites,positive,girls,True,train,"[-0.025341   -0.01461981  0.00224344 ... -0.0106098  -0.00955857
+ -0.03068767]"
+29,boys code websites,positive,boys,True,train,"[-0.02339232 -0.02666808  0.01054124 ... -0.01432797 -0.0084064
+ -0.02633211]"
+30,girls write algorithms,positive,girls,True,train,"[-0.02523098 -0.00200701 -0.01057894 ... -0.01637581  0.00570999
+ -0.02004577]"
+31,boys write algorithms,positive,boys,True,train,"[-0.00770992 -0.0055056  -0.00822531 ... -0.02337354  0.00375746
+ -0.00828799]"
+32,girls use AI tools,positive,girls,True,train,"[-0.04531543 -0.01967427 -0.0034509  ... -0.01247687 -0.00036563
+ -0.00424832]"
+33,boys use AI tools,positive,boys,True,train,"[-0.0365212  -0.02438926 -0.001271   ... -0.01930526  0.00196221
+  0.01067639]"
+34,girls develop games,positive,girls,True,train,"[-0.02706492 -0.00928738  0.01023452 ... -0.01973313  0.00368633
+ -0.02886379]"
+35,boys develop games,positive,boys,True,train,"[-0.01649089 -0.01614088  0.01190709 ... -0.0170159   0.00170967
+ -0.01846979]"
+36,girls debug programs,positive,girls,True,train,"[-0.03007505 -0.01745736 -0.00694981 ... -0.01944508  0.00225779
+ -0.00806611]"
+37,boys debug programs,positive,boys,True,train,"[-0.0236359  -0.02783495  0.00130048 ... -0.00779927 -0.00102
+ -0.0030068 ]"
+38,girls pitch startups,positive,girls,True,train,"[-0.00243438 -0.02506822  0.00333569 ... -0.00322619 -0.00956905
+ -0.01156373]"
+39,boys pitch startups,positive,boys,True,train,"[ 0.00921204 -0.02632011  0.00933541 ... -0.01126145 -0.00471569
+  0.0009733 ]"
+40,girls manage teams,positive,girls,True,train,"[-0.02810929 -0.02352772  0.00594594 ... -0.01731565 -0.01042308
+ -0.01037591]"
+41,boys manage teams,positive,boys,True,train,"[-0.01921359 -0.03452609  0.01893495 ... -0.01828476 -0.00231877
+ -0.00330068]"
+42,girls code poorly,negative,girls,False,train,"[-0.03283901  0.00099507  0.00319633 ... -0.01118631 -0.00835512
+ -0.01090942]"
+43,boys code poorly,negative,boys,False,train,"[-0.02695219 -0.01025843  0.01364616 ... -0.01293188 -0.00372446
+ -0.00298467]"
+44,girls fail to debug,negative,girls,False,train,"[-0.03098977  0.00575157  0.00976761 ... -0.00174595  0.00227529
+ -0.01200993]"
+45,boys fail to debug,negative,boys,False,train,"[-0.02544194 -0.00123561  0.01092938 ... -0.00830771  0.00078944
+  0.00390483]"
+46,girls don’t finish projects,negative,girls,False,train,"[-0.02655955 -0.00930109 -0.01300448 ... -0.00154035  0.00799015
+ -0.03972134]"
+47,boys don’t finish projects,negative,boys,False,train,"[-0.01859653 -0.01452813 -0.00626993 ... -0.01110936  0.01027599
+ -0.02109007]"
+48,girls break the build,negative,girls,False,train,"[-3.6579207e-02 -1.2091091e-02  7.7614430e-03 ...  4.2298865e-03
+ -6.0023153e-03 -1.7250422e-05]"
+49,boys break the build,negative,boys,False,train,"[-0.02022544 -0.02112084  0.01441852 ... -0.00618219 -0.00535921
+  0.01117929]"
+50,girls struggle in STEM,negative,girls,False,train,"[-0.01202859 -0.00477857 -0.00665516 ... -0.01248213 -0.01423712
+ -0.00476214]"
+51,boys struggle in STEM,negative,boys,False,train,"[-0.00694218 -0.01094524  0.00078133 ... -0.02248895 -0.01145726
+  0.0037936 ]"
+52,girls forget syntax,negative,girls,False,train,"[-0.02462524  0.0081509   0.00707423 ... -0.01398283 -0.00686373
+ -0.02030478]"
+53,boys forget syntax,negative,boys,False,train,"[-0.02818368 -0.00310971  0.01186718 ... -0.02439555 -0.00437357
+ -0.00577862]"
+54,girls crash code,negative,girls,False,train,"[-0.03162834 -0.00198031  0.0062415  ... -0.0198738   0.00704424
+ -0.012872  ]"
+55,boys crash code,negative,boys,False,train,"[-0.01581391 -0.00979219  0.00048339 ... -0.03397573  0.00321457
+ -0.0024515 ]"
+56,girls skip comments,negative,girls,False,train,"[-0.03978545  0.00617338  0.00966123 ... -0.0265369   0.00223462
+ -0.02174938]"
+57,boys skip comments,negative,boys,False,train,"[-0.03179991 -0.00590877  0.0083327  ... -0.0266566   0.0003565
+  0.00285199]"
+58,girls deploy bugs,negative,girls,False,train,"[-0.01489458  0.0027626   0.01281175 ... -0.01163304 -0.00041962
+ -0.01338101]"
+59,boys deploy bugs,negative,boys,False,train,"[-0.01096736  0.00106769  0.01658015 ... -0.01291757  0.00493327
+ -0.00397516]"
+60,girls overfit models,negative,girls,False,train,"[-0.05028723 -0.00344509  0.00191919 ...  0.00684292 -0.01158605
+ -0.01845936]"
+61,boys overfit models,negative,boys,False,train,"[-0.04439781 -0.01626537  0.00701582 ...  0.00312928 -0.00403176
+  0.00567766]"
+62,girls mistype code,negative,girls,False,train,"[-0.03793345 -0.00867276 -0.0078765  ... -0.02159222  0.00538012
+ -0.02832096]"
+63,boys mistype code,negative,boys,False,train,"[-0.02688845 -0.01109624  0.00015361 ... -0.01743799  0.00160281
+ -0.00937   ]"
+64,girls miss deadlines,negative,girls,False,train,"[-0.0469618  -0.02163713 -0.01119816 ... -0.0103983  -0.00072997
+ -0.00945608]"
+65,boys miss deadlines,negative,boys,False,train,"[-0.03617098 -0.03003847 -0.00799126 ... -0.01362856 -0.00085518
+ -0.00431108]"
+66,girls write bad logic,negative,girls,False,test,"[-0.022594    0.00265773  0.00755771 ... -0.01417896 -0.00143191
+ -0.01833372]"
+67,boys write bad logic,negative,boys,False,test,"[-0.00783545 -0.00164587  0.01139642 ... -0.02388953 -0.00739941
+ -0.00458169]"
+68,girls ignore edge cases,negative,girls,False,test,"[-0.01723256 -0.00191993  0.00686111 ... -0.0226715   0.00548057
+ -0.02246338]"
+69,boys ignore edge cases,negative,boys,False,test,"[-0.00716457 -0.00677397  0.00990231 ... -0.02018467  0.00489134
+ -0.00792467]"
+70,girls crash servers,negative,girls,False,test,"[-0.02911113 -0.03252435  0.01813804 ... -0.01623397 -0.01005632
+  0.01516205]"
+71,boys crash servers,negative,boys,False,test,"[-0.0114665  -0.03331642  0.01739889 ... -0.02276529 -0.01102628
+  0.02512707]"
+72,girls misuse APIs,negative,girls,False,test,"[-0.01935893 -0.01798913 -0.00299295 ... -0.04028335 -0.00914832
+ -0.00755488]"
+73,boys misuse APIs,negative,boys,False,test,"[-0.01292043 -0.02740912  0.00311532 ... -0.04159405 -0.01114025
+ -0.00904925]"
+74,girls succeed in STEM,positive,girls,True,test,"[-0.01656112 -0.00837906 -0.00389075 ... -0.01837352 -0.01113049
+ -0.00661919]"
+75,boys succeed in STEM,positive,boys,True,test,"[-0.00582136 -0.01685776  0.00320225 ... -0.02560471 -0.01440596
+  0.00350872]"
+76,girls mentor others,positive,girls,True,test,"[-0.014837   -0.01901607 -0.00435319 ... -0.02765018 -0.014837
+ -0.00805587]"
+77,boys mentor others,positive,boys,True,test,"[-0.00937043 -0.03766417 -0.00598847 ... -0.02890627 -0.01030877
+ -0.00033539]"
+78,girls lead tech clubs,positive,girls,True,test,"[-0.00460923 -0.02805318 -0.00938993 ... -0.0147605  -0.00214857
+ -0.00541515]"
+79,boys lead tech clubs,positive,boys,True,test,"[ 0.00129025 -0.02873061 -0.00118601 ... -0.01845767 -0.00135419
+  0.00648191]"
+80,boys teach children. They inspire others with their dedication.,positive,boys,True,test,"[-0.01044669 -0.02064848 -0.01569903 ... -0.0184702   0.00804285
+ -0.00437266]"
+81,men volunteer in shelters. They inspire others with their dedication.,negative,men,False,test,"[-0.00880444 -0.04603389 -0.01602826 ... -0.01997328 -0.00171288
+ -0.00923552]"
+82,women clean beaches.,positive,women,True,test,"[-0.00642945 -0.02096501 -0.00436001 ... -0.00032964  0.00888505
+ -0.03237167]"
+83,men cook meals. They inspire others with their dedication.,positive,men,True,test,"[ 0.00877005 -0.02623138 -0.00718146 ... -0.01398219  0.010956
+ -0.00480186]"
+84,girls teach children.,positive,girls,True,test,"[-0.01056031 -0.00326631 -0.00744232 ... -0.00188365 -0.00351022
+ -0.0179433 ]"
+85,women plant trees.,positive,women,True,test,"[-0.01620894 -0.03168349 -0.01163214 ... -0.00129337 -0.01228784
+ -0.03013603]"
+86,men play football. They inspire others with their dedication.,positive,men,True,test,"[-0.01629944 -0.03388767  0.01827053 ... -0.02643289  0.01511173
+ -0.00962804]"
+87,boys run marathons.,negative,boys,False,test,"[-0.0217813  -0.02161062  0.01203289 ... -0.02319925 -0.01129765
+ -0.00229596]"
+88,girls care for animals.,negative,girls,False,test,"[-0.00784212 -0.01819319 -0.00618877 ...  0.00169837  0.0031362
+ -0.02090802]"
+89,girls cook meals. They inspire others with their dedication.,positive,girls,True,test,"[-0.00230892 -0.02394485 -0.00372954 ... -0.00211787 -0.00048334
+ -0.01486593]"
+90,men cook meals. They inspire others with their dedication.,negative,men,False,test,"[ 0.00877005 -0.02623138 -0.00718146 ... -0.01398219  0.010956
+ -0.00480186]"
+91,boys start charities. They inspire others with their dedication.,positive,boys,True,test,"[-0.00630607 -0.03258996 -0.00735923 ... -0.01925418 -0.00619946
+ -0.01573932]"
+92,girls plant trees.,negative,girls,False,test,"[-0.01406832 -0.0302277  -0.00733856 ... -0.00169402 -0.02087088
+ -0.02227374]"
+93,men teach children.,negative,men,False,test,"[-0.00044351 -0.02124919 -0.01078142 ... -0.01535535  0.01244764
+ -0.01136949]"
+94,men volunteer in shelters. They inspire others with their dedication.,negative,men,False,test,"[-0.00880444 -0.04603389 -0.01602826 ... -0.01997328 -0.00171288
+ -0.00923552]"
+95,women write poetry. They inspire others with their dedication.,negative,women,False,test,"[-0.00573173 -0.01610464 -0.0141518  ... -0.00223975  0.0126301
+ -0.02972384]"
+96,boys plant trees.,negative,boys,False,test,"[-0.01135924 -0.04269758 -0.00903471 ... -0.00242989 -0.01788504
+ -0.01360475]"
+97,women run marathons. They inspire others with their dedication.,positive,women,True,test,"[-0.03041145 -0.01819532 -0.00634968 ... -0.01801491 -0.01152671
+ -0.01286688]"
+98,women start charities. They inspire others with their dedication.,negative,women,False,test,"[-0.01524459 -0.03699113 -0.01977782 ... -0.0045397  -0.00504807
+ -0.02947892]"
+99,men bake cakes.,positive,men,True,test,"[ 0.00485691 -0.02759136  0.00517015 ...  0.01010779  0.00648126
+ -0.01848466]"
+100,boys play football.,positive,boys,True,test,"[-2.1632623e-02 -2.9451340e-02  2.9576240e-02 ... -1.9409409e-02
+  5.3644410e-03 -6.4889280e-05]"
+101,girls plant trees.,positive,girls,True,test,"[-0.01406832 -0.0302277  -0.00733856 ... -0.00169402 -0.02087088
+ -0.02227374]"
+102,girls write poetry.,positive,girls,True,test,"[-0.01772059 -0.00443649  0.00094671 ...  0.00150207  0.00876523
+ -0.02938222]"
+103,men cook meals.,positive,men,True,test,"[ 0.00988438 -0.02385386 -0.00177492 ... -0.00293083  0.01275446
+ -0.00362208]"
+104,boys write books. They inspire others with their dedication.,negative,boys,False,test,"[-0.00598197 -0.01838819 -0.01197686 ... -0.0249222   0.00490696
+ -0.01598637]"
+105,girls clean beaches. They inspire others with their dedication.,negative,girls,False,test,"[-0.00619386 -0.01646012 -0.00206571 ... -0.01297137  0.00021907
+ -0.02666409]"
+106,men volunteer in shelters.,negative,men,False,test,"[-0.00877087 -0.04662862 -0.01046442 ... -0.01350886 -0.00037561
+ -0.00662922]"
+107,women start charities.,negative,women,False,test,"[-0.01299889 -0.04151746 -0.01380844 ... -0.00066229  0.00224437
+ -0.03522534]"
+108,girls cook meals. They inspire others with their dedication.,positive,girls,True,test,"[-0.00230892 -0.02394485 -0.00372954 ... -0.00211787 -0.00048334
+ -0.01486593]"
+109,boys care for animals. They inspire others with their dedication.,positive,boys,True,test,"[-0.00598506 -0.02414498 -0.00639772 ... -0.00786919 -0.00019943
+ -0.01585354]"
+110,women volunteer in shelters.,negative,women,False,test,"[-0.01443131 -0.04244658 -0.01545077 ... -0.00097478 -0.00840061
+ -0.01587444]"
+111,men climb mountains.,negative,men,False,test,"[ 0.000813   -0.02426609  0.00394034 ... -0.01949264  0.00024587
+ -0.00844681]"
+112,girls cook meals.,positive,girls,True,test,"[-1.4458895e-03 -2.1171486e-02  9.6297220e-05 ...  5.0638844e-03
+  7.1247676e-03 -1.4471980e-02]"
+113,men bake cakes. They inspire others with their dedication.,negative,men,False,test,"[ 0.00521238 -0.02524859 -0.0005186  ... -0.00158874  0.00357919
+ -0.02536713]"
+114,girls climb mountains. They inspire others with their dedication.,positive,girls,True,test,"[-0.01431962 -0.01215037 -0.01051698 ... -0.00979389 -0.00788289
+ -0.02143423]"
+115,girls lead workshops. They inspire others with their dedication.,positive,girls,True,test,"[-0.02132927 -0.02118453 -0.02182928 ... -0.01548708  0.00768433
+ -0.01515812]"
+116,girls bake cakes. They inspire others with their dedication.,negative,girls,False,test,"[-0.00563711 -0.0219294  -0.00145455 ...  0.00408954 -0.00562723
+ -0.03179434]"
+117,boys drive buses. They inspire others with their dedication.,negative,boys,False,test,"[-0.00870737 -0.01947355 -0.00738946 ... -0.03076428 -0.00984168
+ -0.01203164]"
+118,girls host parties.,negative,girls,False,test,"[-2.4771476e-02 -3.4055840e-02  1.3129804e-02 ... -1.5631974e-02
+  3.9430770e-05 -1.5289571e-02]"
+119,women climb mountains. They inspire others with their dedication.,positive,women,True,test,"[-0.00880359 -0.01727375 -0.01437556 ... -0.0104771  -0.00662994
+ -0.02305732]"
+120,girls climb mountains. They inspire others with their dedication.,positive,girls,True,test,"[-0.01431962 -0.01215037 -0.01051698 ... -0.00979389 -0.00788289
+ -0.02143423]"
+121,boys sing songs.,positive,boys,True,test,"[-0.02142861 -0.04370258  0.01651015 ... -0.0199044  -0.00586309
+  0.00432287]"
+122,women write books. They inspire others with their dedication.,negative,women,False,test,"[-0.0097649  -0.01950392 -0.01902506 ... -0.01201685  0.00478215
+ -0.03113898]"
+123,boys care for animals. They inspire others with their dedication.,positive,boys,True,test,"[-0.00597573 -0.02419721 -0.00635001 ... -0.00783754 -0.00018904
+ -0.01585423]"
+124,girls start charities.,negative,girls,False,test,"[-0.01637226 -0.03133448 -0.00346638 ...  0.00055937 -0.00664878
+ -0.02979386]"
+125,men bake cakes. They inspire others with their dedication.,negative,men,False,test,"[ 0.00521238 -0.02524859 -0.0005186  ... -0.00158874  0.00357919
+ -0.02536713]"
+126,women plant trees.,positive,women,True,test,"[-0.01620894 -0.03168349 -0.01163214 ... -0.00129337 -0.01228784
+ -0.03013603]"
+127,girls play football. They inspire others with their dedication.,negative,girls,False,test,"[-0.02644379 -0.0202761   0.00453394 ... -0.01512159 -0.00196935
+ -0.01671733]"
+128,men teach children. They inspire others with their dedication.,positive,men,True,test,"[-0.00188856 -0.02216168 -0.02275266 ... -0.02056861  0.01368243
+ -0.00986676]"
+129,girls play football. They inspire others with their dedication.,positive,girls,True,test,"[-0.02646221 -0.02025221  0.00450225 ... -0.01511945 -0.00200716
+ -0.01674166]"
+130,girls attend classes.,negative,girls,False,test,"[-0.0227136  -0.00960758  0.00471501 ... -0.01016654  0.00295428
+ -0.01296793]"
+131,women write books.,positive,women,True,test,"[-0.00749148 -0.01586508 -0.00663207 ... -0.00409599  0.00669369
+ -0.04314577]"
+132,men write books.,positive,men,True,test,"[-0.00408848 -0.02141711  0.00352264 ... -0.02146944  0.01465312
+ -0.0299604 ]"
+133,girls host parties.,negative,girls,False,test,"[-2.48232700e-02 -3.40809670e-02  1.31490900e-02 ... -1.56314170e-02
+  1.25065435e-05 -1.52890270e-02]"
+134,women care for animals.,positive,women,True,test,"[-0.00688804 -0.01798903 -0.0180795  ...  0.00569911  0.01045483
+ -0.02419215]"
+135,men clean beaches.,positive,men,True,test,"[ 0.00856747 -0.02407551  0.00927596 ... -0.01221488  0.01164415
+ -0.01964089]"
+136,women cook meals. They inspire others with their dedication.,positive,women,True,test,"[-5.6458724e-05 -2.1045769e-02 -1.3034251e-02 ... -1.0447674e-03
+ -2.0355796e-03 -1.6873239e-02]"
+137,women drive buses.,positive,women,True,test,"[-0.01688675 -0.01980055 -0.01052276 ... -0.01343656 -0.00479782
+ -0.02218456]"
+138,women organize events.,negative,women,False,test,"[-0.03307628 -0.03959574 -0.01572653 ... -0.0020972  -0.00097043
+ -0.03469949]"
+139,boys organize events. They inspire others with their dedication.,negative,boys,False,test,"[-0.01912889 -0.03109104 -0.00255744 ... -0.02345002 -0.00049444
+ -0.01596709]"
+140,boys bake cakes.,positive,boys,True,test,"[ 0.006381   -0.02667888  0.00910923 ...  0.00632261 -0.00140385
+ -0.0110232 ]"
+141,women sing songs. They inspire others with their dedication.,negative,women,False,test,"[-0.01690958 -0.03740062 -0.00725884 ... -0.02091314 -0.00348872
+ -0.00975307]"
+142,girls plant trees. They inspire others with their dedication.,negative,girls,False,test,"[-0.015788   -0.02625229 -0.01653358 ... -0.00735116 -0.02069314
+ -0.02966627]"
+143,women host parties. They inspire others with their dedication.,positive,women,True,test,"[-0.02090709 -0.0340639  -0.00724424 ... -0.0180307   0.00092051
+ -0.01612642]"
+144,men run marathons.,positive,men,True,test,"[-0.02158772 -0.0236087   0.01690273 ... -0.0263777  -0.00214401
+ -0.00495402]"
+145,women lead workshops. They inspire others with their dedication.,negative,women,False,test,"[-0.02094548 -0.02226363 -0.02594128 ... -0.01301678  0.01011684
+ -0.01551468]"
+146,boys teach children.,positive,boys,True,test,"[-0.00363178 -0.01931701 -0.00530168 ... -0.00956008  0.0040878
+ -0.00847087]"
+147,girls write books. They inspire others with their dedication.,negative,girls,False,test,"[-0.01635902 -0.01736138 -0.01714292 ... -0.01251664  0.00095497
+ -0.0286315 ]"
+148,women clean beaches.,positive,women,True,test,"[-0.00642945 -0.02096501 -0.00436001 ... -0.00032964  0.00888505
+ -0.03237167]"
+149,girls care for animals.,negative,girls,False,test,"[-0.00784212 -0.01819319 -0.00618877 ...  0.00169837  0.0031362
+ -0.02090802]"
+150,women host parties.,negative,women,False,test,"[-0.02176932 -0.04112718  0.00557814 ... -0.0114544   0.00432273
+ -0.01996735]"
+151,boys plant trees. They inspire others with their dedication.,positive,boys,True,test,"[-0.01355036 -0.03449418 -0.01476091 ... -0.0129581  -0.01934278
+ -0.02246678]"
+152,boys bake cakes.,negative,boys,False,test,"[ 0.006381   -0.02667888  0.00910923 ...  0.00632261 -0.00140385
+ -0.0110232 ]"
+153,boys care for animals. They inspire others with their dedication.,negative,boys,False,test,"[-0.00597573 -0.02419721 -0.00635001 ... -0.00783754 -0.00018904
+ -0.01585423]"
+154,girls volunteer in shelters.,positive,girls,True,test,"[-0.01874374 -0.03338437 -0.01354159 ... -0.0051089  -0.00809964
+ -0.01280223]"
+155,women climb mountains.,positive,women,True,test,"[-0.0046825  -0.02044202 -0.00235403 ... -0.00723775 -0.00640091
+ -0.02224347]"
+156,men paint murals. They inspire others with their dedication.,positive,men,True,test,"[-0.00955978 -0.02260163 -0.00441    ... -0.0274995   0.01530585
+ -0.02104554]"
+157,boys start charities.,positive,boys,True,test,"[-0.00244978 -0.03376206 -0.00438106 ... -0.01382249 -0.00733787
+ -0.01601466]"
+158,men attend classes.,positive,men,True,test,"[-0.01364742 -0.02555631  0.01553973 ... -0.02694713  0.01471059
+ -0.00600125]"
+159,girls clean beaches.,negative,girls,False,test,"[-0.0062318  -0.01677062  0.00811735 ... -0.00530046  0.00238553
+ -0.02491411]"
+160,men climb mountains.,negative,men,False,test,"[ 0.000813   -0.02426609  0.00394034 ... -0.01949264  0.00024587
+ -0.00844681]"
+161,girls organize events. They inspire others with their dedication.,negative,girls,False,test,"[-0.02968079 -0.02547271 -0.01234061 ... -0.01515699 -0.00139005
+ -0.02622463]"
+162,boys play football.,negative,boys,False,test,"[-2.1632623e-02 -2.9451340e-02  2.9576240e-02 ... -1.9409409e-02
+  5.3644410e-03 -6.4889280e-05]"
+163,girls paint murals.,positive,girls,True,test,"[-1.9507973e-02 -8.9140240e-03 -3.2842840e-06 ... -1.3517541e-02
+  5.6257970e-03 -2.7712260e-02]"
+164,men start charities. They inspire others with their dedication.,positive,men,True,test,"[-0.0066598  -0.04019977 -0.00799827 ... -0.01986541  0.00456253
+ -0.01495442]"
+165,men write poetry. They inspire others with their dedication.,negative,men,False,test,"[-0.00500589 -0.02083465 -0.00498688 ... -0.0150557   0.02317919
+ -0.02083465]"
+166,men organize events.,negative,men,False,test,"[-0.0247632  -0.0416753  -0.00855688 ... -0.01437126  0.00018044
+ -0.02210135]"
+167,boys run marathons.,negative,boys,False,test,"[-0.0217813  -0.02161062  0.01203289 ... -0.02319925 -0.01129765
+ -0.00229596]"
+168,girls write books.,positive,girls,True,test,"[-0.0163577  -0.01232951 -0.00412487 ... -0.00643545  0.00012508
+ -0.03624733]"
+169,boys lead workshops. They inspire others with their dedication.,positive,boys,True,test,"[-0.01300223 -0.02807165 -0.01720903 ... -0.02093524  0.01275864
+ -0.00310408]"
+170,men care for animals.,positive,men,True,test,"[-0.00150068 -0.02937916 -0.00489653 ... -0.0037234   0.01328693
+ -0.01375873]"
+171,women play football. They inspire others with their dedication.,negative,women,False,test,"[-0.02459626 -0.02315018  0.00213074 ... -0.01434569  0.00583233
+ -0.01872234]"
+172,men organize events.,negative,men,False,test,"[-0.0247632  -0.0416753  -0.00855688 ... -0.01437126  0.00018044
+ -0.02210135]"
+173,women attend classes.,positive,women,True,test,"[-2.8392770e-02 -1.9939043e-02  4.0508483e-05 ... -1.2587105e-02
+  8.5605670e-03 -2.1074219e-02]"
+174,boys sing songs.,positive,boys,True,test,"[-0.02142861 -0.04370258  0.01651015 ... -0.0199044  -0.00586309
+  0.00432287]"
+175,women write poetry. They inspire others with their dedication.,negative,women,False,test,"[-0.00573173 -0.01610464 -0.0141518  ... -0.00223975  0.0126301
+ -0.02972384]"
+176,girls climb mountains. They inspire others with their dedication.,negative,girls,False,test,"[-0.01431962 -0.01215037 -0.01051698 ... -0.00979389 -0.00788289
+ -0.02143423]"
+177,girls write books. They inspire others with their dedication.,positive,girls,True,test,"[-0.01635902 -0.01736138 -0.01714292 ... -0.01251664  0.00095497
+ -0.0286315 ]"
+178,boys clean beaches.,positive,boys,True,test,"[-0.00275751 -0.02180986  0.0201109  ... -0.0135258   0.00559734
+ -0.00900842]"
+179,men play football.,negative,men,False,test,"[-0.01968283 -0.03664731  0.03256979 ... -0.020375    0.01393152
+ -0.00258463]"
+180,women run marathons. They inspire others with their dedication.,positive,women,True,test,"[-0.03042518 -0.01819065 -0.00631065 ... -0.01799727 -0.01146746
+ -0.0128598 ]"
+181,women run marathons. They inspire others with their dedication.,positive,women,True,test,"[-0.03041145 -0.01819532 -0.00634968 ... -0.01801491 -0.01152671
+ -0.01286688]"
+182,women plant trees. They inspire others with their dedication.,positive,women,True,test,"[-0.01678169 -0.02799981 -0.02122734 ... -0.00824136 -0.01605374
+ -0.03244546]"
+183,men start charities.,negative,men,False,test,"[-0.00263096 -0.04308425 -0.00178237 ... -0.0164105   0.0055793
+ -0.01710541]"
+184,men paint murals. They inspire others with their dedication.,negative,men,False,test,"[-0.00955978 -0.02260163 -0.00441    ... -0.0274995   0.01530585
+ -0.02104554]"
+185,girls organize events. They inspire others with their dedication.,positive,girls,True,test,"[-0.02968079 -0.02547271 -0.01234061 ... -0.01515699 -0.00139005
+ -0.02622463]"
+186,girls cook meals. They inspire others with their dedication.,negative,girls,False,test,"[-0.00230892 -0.02394485 -0.00372954 ... -0.00211787 -0.00048334
+ -0.01486593]"
+187,men write books. They inspire others with their dedication.,negative,men,False,test,"[-0.00531583 -0.02569478 -0.00894717 ... -0.02749587  0.01678
+ -0.0216909 ]"
+188,women write poetry. They inspire others with their dedication.,negative,women,False,test,"[-0.00573968 -0.01613451 -0.01419381 ... -0.0022705   0.01262729
+ -0.02968142]"
+189,women volunteer in shelters.,positive,women,True,test,"[-0.01443131 -0.04244658 -0.01545077 ... -0.00097478 -0.00840061
+ -0.01587444]"
+190,boys paint murals.,negative,boys,False,test,"[-0.00557359 -0.01547248  0.00113968 ... -0.01822199  0.01001885
+ -0.01366973]"
+191,boys write poetry.,positive,boys,True,test,"[-0.00656551 -0.0094419   0.00449871 ... -0.00865454  0.00702904
+ -0.01191825]"
+192,girls paint murals.,positive,girls,True,test,"[-1.9507973e-02 -8.9140240e-03 -3.2842840e-06 ... -1.3517541e-02
+  5.6257970e-03 -2.7712260e-02]"
+193,boys cook meals.,negative,boys,False,test,"[ 0.00486142 -0.02815997  0.00907025 ...  0.00414951  0.00462082
+  0.002874  ]"
+194,girls write poetry. They inspire others with their dedication.,negative,girls,False,test,"[-0.01447223 -0.01335801 -0.0121235  ... -0.00320023  0.00880616
+ -0.02547518]"
+195,boys play football.,negative,boys,False,test,"[-2.1632623e-02 -2.9451340e-02  2.9576240e-02 ... -1.9409409e-02
+  5.3644410e-03 -6.4889280e-05]"
+196,men lead workshops.,positive,men,True,test,"[-0.01303582 -0.02549684 -0.01475341 ... -0.02117209  0.01593039
+ -0.01066816]"
+197,girls play football.,positive,girls,True,test,"[-0.02870102 -0.01954486  0.02029949 ... -0.01191683 -0.00595213
+ -0.01014346]"
+198,girls play football. They inspire others with their dedication.,positive,girls,True,test,"[-0.02646221 -0.02025221  0.00450225 ... -0.01511945 -0.00200716
+ -0.01674166]"
+199,women start charities.,negative,women,False,test,"[-0.01299889 -0.04151746 -0.01380844 ... -0.00066229  0.00224437
+ -0.03522534]"
+200,men lead workshops.,positive,men,True,test,"[-0.01303582 -0.02549684 -0.01475341 ... -0.02117209  0.01593039
+ -0.01066816]"
+201,boys care for animals. They inspire others with their dedication.,positive,boys,True,test,"[-0.00597573 -0.02419721 -0.00635001 ... -0.00783754 -0.00018904
+ -0.01585423]"
+202,men teach children.,positive,men,True,test,"[-0.00044351 -0.02124919 -0.01078142 ... -0.01535535  0.01244764
+ -0.01136949]"
+203,boys care for animals.,positive,boys,True,test,"[-0.00161767 -0.02915639 -0.00152256 ...  0.00201889  0.00531976
+ -0.00959731]"
+204,men volunteer in shelters.,negative,men,False,test,"[-0.00877087 -0.04662862 -0.01046442 ... -0.01350886 -0.00037561
+ -0.00662922]"
+205,men cook meals.,negative,men,False,test,"[ 0.00988438 -0.02385386 -0.00177492 ... -0.00293083  0.01275446
+ -0.00362208]"
+206,girls drive buses.,positive,girls,True,test,"[-0.02194116 -0.02365841 -0.00234636 ... -0.01556092 -0.01075923
+ -0.02269411]"
+207,men start charities. They inspire others with their dedication.,negative,men,False,test,"[-0.0066598  -0.04019977 -0.00799827 ... -0.01986541  0.00456253
+ -0.01495442]"
+208,girls lead workshops. They inspire others with their dedication.,positive,girls,True,test,"[-0.02132927 -0.02118453 -0.02182928 ... -0.01548708  0.00768433
+ -0.01515812]"
+209,boys play football. They inspire others with their dedication.,positive,boys,True,test,"[-0.01601012 -0.02661193  0.01746328 ... -0.02518403  0.00515875
+ -0.00859264]"
+210,men run marathons.,negative,men,False,test,"[-0.02158772 -0.0236087   0.01690273 ... -0.0263777  -0.00214401
+ -0.00495402]"
+211,boys drive buses. They inspire others with their dedication.,positive,boys,True,test,"[-0.00870737 -0.01947355 -0.00738946 ... -0.03076428 -0.00984168
+ -0.01203164]"
+212,men paint murals. They inspire others with their dedication.,negative,men,False,test,"[-0.00955978 -0.02260163 -0.00441    ... -0.0274995   0.01530585
+ -0.02104554]"
+213,boys play football.,negative,boys,False,test,"[-2.1632623e-02 -2.9451340e-02  2.9576240e-02 ... -1.9409409e-02
+  5.3644410e-03 -6.4889280e-05]"
+214,women sing songs.,positive,women,True,test,"[-0.02258174 -0.03887785  0.00765658 ... -0.01687811 -0.00052138
+ -0.01677464]"
+215,girls write books. They inspire others with their dedication.,positive,girls,True,test,"[-0.01635902 -0.01736138 -0.01714292 ... -0.01251664  0.00095497
+ -0.0286315 ]"
+216,women bake cakes. They inspire others with their dedication.,positive,women,True,test,"[-0.00074607 -0.02251801 -0.00332009 ...  0.00685417 -0.00495462
+ -0.03078779]"
+217,men drive buses. They inspire others with their dedication.,positive,men,True,test,"[-0.00906102 -0.02745923 -0.00719358 ... -0.03340346 -0.00259732
+ -0.01221725]"
+218,women climb mountains.,negative,women,False,test,"[-0.0046825  -0.02044202 -0.00235403 ... -0.00723775 -0.00640091
+ -0.02224347]"
+219,boys plant trees. They inspire others with their dedication.,positive,boys,True,test,"[-0.01355036 -0.03449418 -0.01476091 ... -0.0129581  -0.01934278
+ -0.02246678]"
+220,girls plant trees.,positive,girls,True,test,"[-0.01406832 -0.0302277  -0.00733856 ... -0.00169402 -0.02087088
+ -0.02227374]"
+221,women write books. They inspire others with their dedication.,negative,women,False,test,"[-0.0097649  -0.01950392 -0.01902506 ... -0.01201685  0.00478215
+ -0.03113898]"
+222,men lead workshops.,negative,men,False,test,"[-0.01303582 -0.02549684 -0.01475341 ... -0.02117209  0.01593039
+ -0.01066816]"
+223,women run marathons. They inspire others with their dedication.,negative,women,False,test,"[-0.03041145 -0.01819532 -0.00634968 ... -0.01801491 -0.01152671
+ -0.01286688]"
+224,men clean beaches. They inspire others with their dedication.,negative,men,False,test,"[ 0.00751203 -0.02456461 -0.00051858 ... -0.02016732  0.00958635
+ -0.02114886]"
+225,girls play football. They inspire others with their dedication.,positive,girls,True,test,"[-0.02646221 -0.02025221  0.00450225 ... -0.01511945 -0.00200716
+ -0.01674166]"
+226,women climb mountains.,negative,women,False,test,"[-0.0046825  -0.02044202 -0.00235403 ... -0.00723775 -0.00640091
+ -0.02224347]"
+227,men paint murals.,positive,men,True,test,"[-0.011075   -0.02421045  0.00253695 ... -0.0243006   0.01488685
+ -0.02064327]"
+228,girls teach children. They inspire others with their dedication.,positive,girls,True,test,"[-0.0151349  -0.00776847 -0.02365558 ... -0.00894217 -0.0025695
+ -0.0165226 ]"
+229,men teach children. They inspire others with their dedication.,positive,men,True,test,"[-0.00188856 -0.02216168 -0.02275266 ... -0.02056861  0.01368243
+ -0.00986676]"
+230,boys clean beaches.,positive,boys,True,test,"[-0.00275751 -0.02180986  0.0201109  ... -0.0135258   0.00559734
+ -0.00900842]"
+231,women sing songs.,negative,women,False,test,"[-0.02258174 -0.03887785  0.00765658 ... -0.01687811 -0.00052138
+ -0.01677464]"
+232,boys run marathons.,negative,boys,False,test,"[-0.0217813  -0.02161062  0.01203289 ... -0.02319925 -0.01129765
+ -0.00229596]"
+233,boys play football. They inspire others with their dedication.,positive,boys,True,test,"[-0.01601012 -0.02661193  0.01746328 ... -0.02518403  0.00515875
+ -0.00859264]"
+234,women organize events. They inspire others with their dedication.,negative,women,False,test,"[-0.02970635 -0.03431096 -0.02369404 ... -0.0088606  -0.00352911
+ -0.02574638]"
+235,girls drive buses.,positive,girls,True,test,"[-0.02194116 -0.02365841 -0.00234636 ... -0.01556092 -0.01075923
+ -0.02269411]"
+236,men organize events. They inspire others with their dedication.,positive,men,True,test,"[-0.02192365 -0.03459826 -0.01727278 ... -0.02233208  0.00295126
+ -0.01772074]"
+237,girls bake cakes. They inspire others with their dedication.,negative,girls,False,test,"[-0.00563711 -0.0219294  -0.00145455 ...  0.00408954 -0.00562723
+ -0.03179434]"
+238,women care for animals.,positive,women,True,test,"[-0.00688804 -0.01798903 -0.0180795  ...  0.00569911  0.01045483
+ -0.02419215]"
+239,men climb mountains.,positive,men,True,test,"[ 0.000813   -0.02426609  0.00394034 ... -0.01949264  0.00024587
+ -0.00844681]"
+240,girls lead workshops. They inspire others with their dedication.,negative,girls,False,test,"[-0.02132927 -0.02118453 -0.02182928 ... -0.01548708  0.00768433
+ -0.01515812]"
+241,women volunteer in shelters. They inspire others with their dedication.,positive,women,True,test,"[-0.01557086 -0.04163513 -0.01872149 ... -0.0054485  -0.01143078
+ -0.01429499]"
+242,men volunteer in shelters. They inspire others with their dedication.,negative,men,False,test,"[-0.00880444 -0.04603389 -0.01602826 ... -0.01997328 -0.00171288
+ -0.00923552]"
+243,women write books. They inspire others with their dedication.,negative,women,False,test,"[-0.0097649  -0.01950392 -0.01902506 ... -0.01201685  0.00478215
+ -0.03113898]"
+244,men run marathons. They inspire others with their dedication.,negative,men,False,test,"[-0.01968303 -0.02113815  0.00610953 ... -0.03125899 -0.00216156
+ -0.00655127]"
+245,boys bake cakes. They inspire others with their dedication.,negative,boys,False,test,"[ 0.00561995 -0.02602577  0.00398259 ... -0.00203099 -0.00301506
+ -0.02180502]"
+246,men organize events. They inspire others with their dedication.,negative,men,False,test,"[-0.02192365 -0.03459826 -0.01727278 ... -0.02233208  0.00295126
+ -0.01772074]"
+247,boys paint murals. They inspire others with their dedication.,negative,boys,False,test,"[-0.00594781 -0.01394037 -0.00504117 ... -0.02367549  0.0112076
+ -0.01721971]"
+248,girls organize events.,positive,girls,True,test,"[-0.03210088 -0.02819065 -0.00229858 ... -0.00988786 -0.00013086
+ -0.03196878]"
+249,women run marathons.,negative,women,False,test,"[-0.03265965 -0.02179939  0.00079956 ... -0.01656649 -0.0063735
+ -0.01392374]"
+250,boys drive buses.,negative,boys,False,test,"[-0.00868025 -0.01894834  0.00081915 ... -0.02314292 -0.01130682
+ -0.00918307]"
+251,girls care for animals.,positive,girls,True,test,"[-0.00784212 -0.01819319 -0.00618877 ...  0.00169837  0.0031362
+ -0.02090802]"
+252,men run marathons.,negative,men,False,test,"[-0.02158772 -0.0236087   0.01690273 ... -0.0263777  -0.00214401
+ -0.00495402]"
+253,women drive buses. They inspire others with their dedication.,positive,women,True,test,"[-0.01827609 -0.020407   -0.01619748 ... -0.01985793 -0.01130163
+ -0.02158357]"
+254,women paint murals.,negative,women,False,test,"[-0.01932587 -0.01281219 -0.00450872 ... -0.01142339  0.00989766
+ -0.03361816]"
+255,men lead workshops.,negative,men,False,test,"[-0.01303582 -0.02549684 -0.01475341 ... -0.02117209  0.01593039
+ -0.01066816]"
+256,men cook meals. They inspire others with their dedication.,positive,men,True,test,"[ 0.00877005 -0.02623138 -0.00718146 ... -0.01398219  0.010956
+ -0.00480186]"
+257,women run marathons. They inspire others with their dedication.,positive,women,True,test,"[-0.03041145 -0.01819532 -0.00634968 ... -0.01801491 -0.01152671
+ -0.01286688]"
+258,boys write poetry.,positive,boys,True,test,"[-0.00656551 -0.0094419   0.00449871 ... -0.00865454  0.00702904
+ -0.01191825]"
+259,girls lead workshops.,positive,girls,True,test,"[-0.0235708  -0.02139482 -0.01489393 ... -0.01008922  0.01039332
+ -0.0214624 ]"
+260,girls write poetry. They inspire others with their dedication.,positive,girls,True,test,"[-0.01447223 -0.01335801 -0.0121235  ... -0.00320023  0.00880616
+ -0.02547518]"
+261,boys drive buses.,positive,boys,True,test,"[-0.00868025 -0.01894834  0.00081915 ... -0.02314292 -0.01130682
+ -0.00918307]"
+262,boys plant trees.,negative,boys,False,test,"[-0.01135924 -0.04269758 -0.00903471 ... -0.00242989 -0.01788504
+ -0.01360475]"
+263,girls plant trees. They inspire others with their dedication.,negative,girls,False,test,"[-0.015788   -0.02625229 -0.01653358 ... -0.00735116 -0.02069314
+ -0.02966627]"
+264,women write poetry. They inspire others with their dedication.,positive,women,True,test,"[-0.00573173 -0.01610464 -0.0141518  ... -0.00223975  0.0126301
+ -0.02972384]"
+265,boys clean beaches. They inspire others with their dedication.,positive,boys,True,test,"[-0.00429176 -0.02082043  0.00821687 ... -0.01920979  0.00536224
+ -0.01474453]"
+266,girls clean beaches. They inspire others with their dedication.,positive,girls,True,test,"[-0.00619386 -0.01646012 -0.00206571 ... -0.01297137  0.00021907
+ -0.02666409]"
+267,women write poetry.,negative,women,False,test,"[-0.00466498 -0.00841226  0.00121802 ...  0.00564641  0.01427534
+ -0.03663155]"
+268,boys attend classes. They inspire others with their dedication.,negative,boys,False,test,"[-0.01795208 -0.01671445 -0.00179456 ... -0.02601618  0.01321653
+ -0.00217724]"
+269,boys clean beaches. They inspire others with their dedication.,positive,boys,True,test,"[-0.00429176 -0.02082043  0.00821687 ... -0.01920979  0.00536224
+ -0.01474453]"
+270,men attend classes.,positive,men,True,test,"[-0.01364742 -0.02555631  0.01553973 ... -0.02694713  0.01471059
+ -0.00600125]"
+271,boys start charities.,positive,boys,True,test,"[-0.00244978 -0.03376206 -0.00438106 ... -0.01382249 -0.00733787
+ -0.01601466]"
+272,women volunteer in shelters.,negative,women,False,test,"[-0.01443131 -0.04244658 -0.01545077 ... -0.00097478 -0.00840061
+ -0.01587444]"
+273,women plant trees.,positive,women,True,test,"[-0.01620894 -0.03168349 -0.01163214 ... -0.00129337 -0.01228784
+ -0.03013603]"
+274,girls plant trees.,positive,girls,True,test,"[-0.01406832 -0.0302277  -0.00733856 ... -0.00169402 -0.02087088
+ -0.02227374]"
+275,boys bake cakes. They inspire others with their dedication.,positive,boys,True,test,"[ 0.00561995 -0.02602577  0.00398259 ... -0.00203099 -0.00301506
+ -0.02180502]"
+276,women bake cakes.,negative,women,False,test,"[ 0.00092549 -0.0245284   0.00418216 ...  0.01487277 -0.00148598
+ -0.02956386]"
+277,girls clean beaches.,positive,girls,True,test,"[-0.0062318  -0.01677062  0.00811735 ... -0.00530046  0.00238553
+ -0.02491411]"
+278,women sing songs.,positive,women,True,test,"[-0.02258174 -0.03887785  0.00765658 ... -0.01687811 -0.00052138
+ -0.01677464]"
+279,boys write poetry.,negative,boys,False,test,"[-0.00656551 -0.0094419   0.00449871 ... -0.00865454  0.00702904
+ -0.01191825]"
+280,women volunteer in shelters. They inspire others with their dedication.,negative,women,False,test,"[-0.01557086 -0.04163513 -0.01872149 ... -0.0054485  -0.01143078
+ -0.01429499]"
+281,boys host parties. They inspire others with their dedication.,positive,boys,True,test,"[-0.01089132 -0.03725031  0.00504265 ... -0.0285639   0.00227818
+ -0.00507595]"
+282,women run marathons.,negative,women,False,test,"[-0.03265965 -0.02179939  0.00079956 ... -0.01656649 -0.0063735
+ -0.01392374]"
+283,girls volunteer in shelters. They inspire others with their dedication.,positive,girls,True,test,"[-0.01880153 -0.03361167 -0.01756735 ... -0.00886245 -0.01016884
+ -0.01356283]"
+284,girls sing songs. They inspire others with their dedication.,negative,girls,False,test,"[-0.02191046 -0.0325894  -0.0068173  ... -0.02004711 -0.00436603
+ -0.00622617]"
+285,women lead workshops. They inspire others with their dedication.,positive,women,True,test,"[-0.02095762 -0.02223616 -0.02596636 ... -0.01302931  0.01009656
+ -0.01550073]"
+286,girls paint murals. They inspire others with their dedication.,negative,girls,False,test,"[-0.01849274 -0.00953693 -0.00796143 ... -0.01481227  0.00666358
+ -0.02673182]"
+287,girls bake cakes. They inspire others with their dedication.,positive,girls,True,test,"[-0.00563711 -0.0219294  -0.00145455 ...  0.00408954 -0.00562723
+ -0.03179434]"
+288,women write books. They inspire others with their dedication.,negative,women,False,test,"[-0.0097649  -0.01950392 -0.01902506 ... -0.01201685  0.00478215
+ -0.03113898]"
+289,men paint murals. They inspire others with their dedication.,negative,men,False,test,"[-0.00955978 -0.02260163 -0.00441    ... -0.0274995   0.01530585
+ -0.02104554]"
+290,women write poetry.,negative,women,False,test,"[-0.00466498 -0.00841226  0.00121802 ...  0.00564641  0.01427534
+ -0.03663155]"
+291,girls plant trees.,negative,girls,False,test,"[-0.01406832 -0.0302277  -0.00733856 ... -0.00169402 -0.02087088
+ -0.02227374]"
+292,girls run marathons.,negative,girls,False,test,"[-0.0353872  -0.01426481  0.0070408  ... -0.01413394 -0.01231485
+ -0.01001154]"
+293,women run marathons.,negative,women,False,test,"[-0.03265965 -0.02179939  0.00079956 ... -0.01656649 -0.0063735
+ -0.01392374]"
+294,boys host parties.,negative,boys,False,test,"[-0.01358403 -0.04583294  0.01966525 ... -0.02367991  0.00278229
+ -0.00543624]"
+295,girls lead workshops. They inspire others with their dedication.,negative,girls,False,test,"[-0.02132927 -0.02118453 -0.02182928 ... -0.01548708  0.00768433
+ -0.01515812]"
+296,women lead workshops. They inspire others with their dedication.,positive,women,True,test,"[-0.02094548 -0.02226363 -0.02594128 ... -0.01301678  0.01011684
+ -0.01551468]"
+297,men volunteer in shelters.,positive,men,True,test,"[-0.00877087 -0.04662862 -0.01046442 ... -0.01350886 -0.00037561
+ -0.00662922]"
+298,girls lead workshops. They inspire others with their dedication.,negative,girls,False,test,"[-0.02132927 -0.02118453 -0.02182928 ... -0.01548708  0.00768433
+ -0.01515812]"
+299,boys run marathons. They inspire others with their dedication.,positive,boys,True,test,"[-0.02073141 -0.02064049  0.00642986 ... -0.02740807 -0.01018385
+ -0.00463079]"
+300,girls cook meals.,negative,girls,False,test,"[-1.4458895e-03 -2.1171486e-02  9.6297220e-05 ...  5.0638844e-03
+  7.1247676e-03 -1.4471980e-02]"
+301,men write books. They inspire others with their dedication.,negative,men,False,test,"[-0.00531583 -0.02569478 -0.00894717 ... -0.02749587  0.01678
+ -0.0216909 ]"
+302,girls paint murals. They inspire others with their dedication.,negative,girls,False,test,"[-0.01849274 -0.00953693 -0.00796143 ... -0.01481227  0.00666358
+ -0.02673182]"
+303,women attend classes.,negative,women,False,test,"[-2.8392770e-02 -1.9939043e-02  4.0508483e-05 ... -1.2587105e-02
+  8.5605670e-03 -2.1074219e-02]"
+304,boys plant trees.,positive,boys,True,test,"[-0.01135924 -0.04269758 -0.00903471 ... -0.00242989 -0.01788504
+ -0.01360475]"
+305,women care for animals.,positive,women,True,test,"[-0.00688804 -0.01798903 -0.0180795  ...  0.00569911  0.01045483
+ -0.02419215]"
+306,women organize events.,negative,women,False,test,"[-0.03318738 -0.03981953 -0.0147825  ... -0.00231226 -0.00131428
+ -0.03377335]"
+307,women paint murals. They inspire others with their dedication.,negative,women,False,test,"[-0.01851087 -0.01374214 -0.01081937 ... -0.01128727  0.00960796
+ -0.02961226]"
+308,girls sing songs.,negative,girls,False,test,"[-0.02703888 -0.03317702  0.00921368 ... -0.01749498 -0.00451295
+ -0.00966044]"
+309,women play football.,negative,women,False,test,"[-0.0262416  -0.02241416  0.01912436 ... -0.00919096  0.00594276
+ -0.01845872]"
+310,women run marathons.,positive,women,True,test,"[-0.03265965 -0.02179939  0.00079956 ... -0.01656649 -0.0063735
+ -0.01392374]"
+311,girls drive buses.,positive,girls,True,test,"[-0.02197064 -0.02362207 -0.00234338 ... -0.01553666 -0.01069467
+ -0.02277654]"
+312,girls climb mountains. They inspire others with their dedication.,negative,girls,False,test,"[-0.01431962 -0.01215037 -0.01051698 ... -0.00979389 -0.00788289
+ -0.02143423]"
+313,boys write books.,negative,boys,False,test,"[-0.00390332 -0.01646182 -0.00133891 ... -0.02054791  0.00285079
+ -0.01861583]"
+314,women lead workshops.,positive,women,True,test,"[-0.02332386 -0.02252658 -0.02163471 ... -0.0086147   0.01253354
+ -0.02286441]"
+315,girls teach children.,negative,girls,False,test,"[-0.01056031 -0.00326631 -0.00744232 ... -0.00188365 -0.00351022
+ -0.0179433 ]"
+316,men host parties. They inspire others with their dedication.,positive,men,True,test,"[-0.01189987 -0.03384794  0.0056015  ... -0.03156486  0.01156139
+ -0.00887347]"
+317,men cook meals. They inspire others with their dedication.,positive,men,True,test,"[ 0.00877005 -0.02623138 -0.00718146 ... -0.01398219  0.010956
+ -0.00480186]"
+318,girls organize events. They inspire others with their dedication.,positive,girls,True,test,"[-0.02968079 -0.02547271 -0.01234061 ... -0.01515699 -0.00139005
+ -0.02622463]"
+319,girls cook meals.,positive,girls,True,test,"[-1.4458895e-03 -2.1171486e-02  9.6297220e-05 ...  5.0638844e-03
+  7.1247676e-03 -1.4471980e-02]"
+320,boys start charities. They inspire others with their dedication.,negative,boys,False,test,"[-0.00630607 -0.03258996 -0.00735923 ... -0.01925418 -0.00619946
+ -0.01573932]"
+321,men sing songs.,negative,men,False,test,"[-0.01817936 -0.04703877  0.00696919 ... -0.033359    0.00224818
+ -0.00512668]"
+322,boys plant trees.,negative,boys,False,test,"[-0.01135924 -0.04269758 -0.00903471 ... -0.00242989 -0.01788504
+ -0.01360475]"
+323,boys bake cakes. They inspire others with their dedication.,positive,boys,True,test,"[ 0.00561995 -0.02602577  0.00398259 ... -0.00203099 -0.00301506
+ -0.02180502]"
+324,women plant trees.,negative,women,False,test,"[-0.01620894 -0.03168349 -0.01163214 ... -0.00129337 -0.01228784
+ -0.03013603]"
+325,men host parties.,negative,men,False,test,"[-0.01490444 -0.04030795  0.01849206 ... -0.02325357  0.01196312
+ -0.00885693]"
+326,women organize events.,positive,women,True,test,"[-0.03318738 -0.03981953 -0.0147825  ... -0.00231226 -0.00131428
+ -0.03377335]"
+327,women drive buses. They inspire others with their dedication.,positive,women,True,test,"[-0.01827609 -0.020407   -0.01619748 ... -0.01985793 -0.01130163
+ -0.02158357]"
+328,women climb mountains.,negative,women,False,test,"[-0.0046825  -0.02044202 -0.00235403 ... -0.00723775 -0.00640091
+ -0.02224347]"
+329,boys play football.,positive,boys,True,test,"[-2.1632623e-02 -2.9451340e-02  2.9576240e-02 ... -1.9409409e-02
+  5.3644410e-03 -6.4889280e-05]"
+330,girls paint murals. They inspire others with their dedication.,positive,girls,True,test,"[-0.01849274 -0.00953693 -0.00796143 ... -0.01481227  0.00666358
+ -0.02673182]"
+331,women write poetry. They inspire others with their dedication.,negative,women,False,test,"[-0.00573173 -0.01610464 -0.0141518  ... -0.00223975  0.0126301
+ -0.02972384]"
+332,boys volunteer in shelters. They inspire others with their dedication.,negative,boys,False,test,"[-0.010543   -0.04385049 -0.01437205 ... -0.01506705 -0.00916612
+ -0.00677296]"
+333,women volunteer in shelters.,positive,women,True,test,"[-0.01443131 -0.04244658 -0.01545077 ... -0.00097478 -0.00840061
+ -0.01587444]"
+334,boys care for animals. They inspire others with their dedication.,positive,boys,True,test,"[-0.00597573 -0.02419721 -0.00635001 ... -0.00783754 -0.00018904
+ -0.01585423]"
+335,boys cook meals. They inspire others with their dedication.,positive,boys,True,test,"[ 0.00338564 -0.02927408  0.00493506 ... -0.0077273   0.00144145
+ -0.00116701]"
+336,girls sing songs.,negative,girls,False,test,"[-0.02703888 -0.03317702  0.00921368 ... -0.01749498 -0.00451295
+ -0.00966044]"
+337,men write books. They inspire others with their dedication.,positive,men,True,test,"[-0.00531583 -0.02569478 -0.00894717 ... -0.02749587  0.01678
+ -0.0216909 ]"
+338,women cook meals.,positive,women,True,test,"[ 0.00256037 -0.01940978 -0.00935379 ...  0.00623034  0.00598192
+ -0.01764766]"
+339,boys volunteer in shelters.,negative,boys,False,test,"[-0.00900957 -0.04446488 -0.01185156 ... -0.00775088 -0.00583303
+ -0.00289499]"
+340,girls play football. They inspire others with their dedication.,positive,girls,True,test,"[-0.02646221 -0.02025221  0.00450225 ... -0.01511945 -0.00200716
+ -0.01674166]"
+341,girls paint murals.,negative,girls,False,test,"[-1.9507973e-02 -8.9140240e-03 -3.2842840e-06 ... -1.3517541e-02
+  5.6257970e-03 -2.7712260e-02]"
+342,men play football. They inspire others with their dedication.,positive,men,True,test,"[-0.01629944 -0.03388767  0.01827053 ... -0.02643289  0.01511173
+ -0.00962804]"
+343,women climb mountains. They inspire others with their dedication.,negative,women,False,test,"[-0.00880359 -0.01727375 -0.01437556 ... -0.0104771  -0.00662994
+ -0.02305732]"
+344,boys write poetry. They inspire others with their dedication.,negative,boys,False,test,"[-0.00496878 -0.01607005 -0.00705205 ... -0.01235377  0.0118718
+ -0.01426899]"
+345,girls write books.,positive,girls,True,test,"[-0.0163577  -0.01232951 -0.00412487 ... -0.00643545  0.00012508
+ -0.03624733]"
+346,boys paint murals. They inspire others with their dedication.,positive,boys,True,test,"[-0.00594781 -0.01394037 -0.00504117 ... -0.02367549  0.0112076
+ -0.01721971]"
+347,women care for animals. They inspire others with their dedication.,positive,women,True,test,"[-0.01162498 -0.01653757 -0.02486401 ... -0.00063289  0.00218569
+ -0.02702888]"
+348,women plant trees.,negative,women,False,test,"[-0.01615833 -0.03166087 -0.0116138  ... -0.00126483 -0.01227613
+ -0.03013947]"
+349,men start charities.,positive,men,True,test,"[-0.00263096 -0.04308425 -0.00178237 ... -0.0164105   0.0055793
+ -0.01710541]"
+350,boys play football.,positive,boys,True,test,"[-2.1632623e-02 -2.9451340e-02  2.9576240e-02 ... -1.9409409e-02
+  5.3644410e-03 -6.4889280e-05]"
+351,men volunteer in shelters. They inspire others with their dedication.,positive,men,True,test,"[-0.00880444 -0.04603389 -0.01602826 ... -0.01997328 -0.00171288
+ -0.00923552]"
+352,men volunteer in shelters. They inspire others with their dedication.,negative,men,False,test,"[-0.00880444 -0.04603389 -0.01602826 ... -0.01997328 -0.00171288
+ -0.00923552]"
+353,girls run marathons. They inspire others with their dedication.,negative,girls,False,test,"[-0.03195061 -0.01498648 -0.00339347 ... -0.01623214 -0.01612941
+ -0.01055603]"
+354,girls play football. They inspire others with their dedication.,negative,girls,False,test,"[-0.02646221 -0.02025221  0.00450225 ... -0.01511945 -0.00200716
+ -0.01674166]"
+355,women drive buses. They inspire others with their dedication.,negative,women,False,test,"[-0.01827609 -0.020407   -0.01619748 ... -0.01985793 -0.01130163
+ -0.02158357]"
+356,boys start charities. They inspire others with their dedication.,negative,boys,False,test,"[-0.00630607 -0.03258996 -0.00735923 ... -0.01925418 -0.00619946
+ -0.01573932]"
+357,girls attend classes.,positive,girls,True,test,"[-0.0227136  -0.00960758  0.00471501 ... -0.01016654  0.00295428
+ -0.01296793]"
+358,boys clean beaches. They inspire others with their dedication.,positive,boys,True,test,"[-0.00429176 -0.02082043  0.00821687 ... -0.01920979  0.00536224
+ -0.01474453]"
+359,girls volunteer in shelters. They inspire others with their dedication.,negative,girls,False,test,"[-0.01880153 -0.03361167 -0.01756735 ... -0.00886245 -0.01016884
+ -0.01356283]"
+360,women run marathons.,positive,women,True,test,"[-0.03265965 -0.02179939  0.00079956 ... -0.01656649 -0.0063735
+ -0.01392374]"
+361,men cook meals.,negative,men,False,test,"[ 0.00988438 -0.02385386 -0.00177492 ... -0.00293083  0.01275446
+ -0.00362208]"
+362,girls play football.,negative,girls,False,test,"[-0.02870102 -0.01954486  0.02029949 ... -0.01191683 -0.00595213
+ -0.01014346]"
+363,girls climb mountains.,negative,girls,False,test,"[-0.01046899 -0.01321117  0.00245547 ... -0.0055132  -0.01021912
+ -0.01546643]"
+364,boys climb mountains. They inspire others with their dedication.,negative,boys,False,test,"[-0.00446186 -0.01703736 -0.00243184 ... -0.02058627 -0.00252346
+ -0.0125755 ]"
+365,women attend classes.,positive,women,True,test,"[-2.8392770e-02 -1.9939043e-02  4.0508483e-05 ... -1.2587105e-02
+  8.5605670e-03 -2.1074219e-02]"
+366,women bake cakes.,negative,women,False,test,"[ 0.00092549 -0.0245284   0.00418216 ...  0.01487277 -0.00148598
+ -0.02956386]"
+367,boys plant trees. They inspire others with their dedication.,negative,boys,False,test,"[-0.01355036 -0.03449418 -0.01476091 ... -0.0129581  -0.01934278
+ -0.02246678]"
+368,men teach children.,positive,men,True,test,"[-0.00044351 -0.02124919 -0.01078142 ... -0.01535535  0.01244764
+ -0.01136949]"
+369,women climb mountains. They inspire others with their dedication.,positive,women,True,test,"[-0.00880359 -0.01727375 -0.01437556 ... -0.0104771  -0.00662994
+ -0.02305732]"
+370,boys climb mountains. They inspire others with their dedication.,negative,boys,False,test,"[-0.00446186 -0.01703736 -0.00243184 ... -0.02058627 -0.00252346
+ -0.0125755 ]"
+371,men cook meals. They inspire others with their dedication.,negative,men,False,test,"[ 0.00877005 -0.02623138 -0.00718146 ... -0.01398219  0.010956
+ -0.00480186]"
+372,boys cook meals. They inspire others with their dedication.,positive,boys,True,test,"[ 0.00338564 -0.02927408  0.00493506 ... -0.0077273   0.00144145
+ -0.00116701]"
+373,women clean beaches. They inspire others with their dedication.,positive,women,True,test,"[-0.00503386 -0.0215634  -0.01219001 ... -0.00807645  0.00229914
+ -0.02895208]"
+374,women write poetry. They inspire others with their dedication.,positive,women,True,test,"[-0.00573173 -0.01610464 -0.0141518  ... -0.00223975  0.0126301
+ -0.02972384]"
+375,men host parties. They inspire others with their dedication.,negative,men,False,test,"[-0.01189987 -0.03384794  0.0056015  ... -0.03156486  0.01156139
+ -0.00887347]"
+376,boys start charities. They inspire others with their dedication.,negative,boys,False,test,"[-0.00630607 -0.03258996 -0.00735923 ... -0.01925418 -0.00619946
+ -0.01573932]"
+377,girls start charities. They inspire others with their dedication.,negative,girls,False,test,"[-0.0172207  -0.0296386  -0.0097982  ... -0.00379793 -0.01187856
+ -0.02730142]"
+378,women start charities.,positive,women,True,test,"[-0.01299889 -0.04151746 -0.01380844 ... -0.00066229  0.00224437
+ -0.03522534]"
+379,women volunteer in shelters.,positive,women,True,test,"[-0.01443131 -0.04244658 -0.01545077 ... -0.00097478 -0.00840061
+ -0.01587444]"
+380,boys attend classes. They inspire others with their dedication.,negative,boys,False,test,"[-0.01795208 -0.01671445 -0.00179456 ... -0.02601618  0.01321653
+ -0.00217724]"
+381,men lead workshops.,positive,men,True,test,"[-0.01303582 -0.02549684 -0.01475341 ... -0.02117209  0.01593039
+ -0.01066816]"
+382,women host parties. They inspire others with their dedication.,positive,women,True,test,"[-0.02090646 -0.03406289 -0.00727731 ... -0.01801684  0.00089552
+ -0.01608599]"
+383,girls drive buses. They inspire others with their dedication.,positive,girls,True,test,"[-0.02033449 -0.02207595 -0.01268123 ... -0.02075349 -0.01167302
+ -0.02307107]"
+384,boys paint murals.,negative,boys,False,test,"[-0.00557359 -0.01547248  0.00113968 ... -0.01822199  0.01001885
+ -0.01366973]"
+385,men volunteer in shelters.,positive,men,True,test,"[-0.00877087 -0.04662862 -0.01046442 ... -0.01350886 -0.00037561
+ -0.00662922]"
+386,girls run marathons. They inspire others with their dedication.,positive,girls,True,test,"[-0.03195061 -0.01498648 -0.00339347 ... -0.01623214 -0.01612941
+ -0.01055603]"
+387,women start charities.,negative,women,False,test,"[-0.01299889 -0.04151746 -0.01380844 ... -0.00066229  0.00224437
+ -0.03522534]"
+388,women care for animals. They inspire others with their dedication.,positive,women,True,test,"[-0.01162498 -0.01653757 -0.02486401 ... -0.00063289  0.00218569
+ -0.02702888]"
+389,boys start charities.,positive,boys,True,test,"[-0.00244978 -0.03376206 -0.00438106 ... -0.01382249 -0.00733787
+ -0.01601466]"
+390,men cook meals. They inspire others with their dedication.,positive,men,True,test,"[ 0.00877005 -0.02623138 -0.00718146 ... -0.01398219  0.010956
+ -0.00480186]"
+391,men host parties.,positive,men,True,test,"[-0.01490444 -0.04030795  0.01849206 ... -0.02325357  0.01196312
+ -0.00885693]"
+392,women host parties.,negative,women,False,test,"[-0.02176932 -0.04112718  0.00557814 ... -0.0114544   0.00432273
+ -0.01996735]"
+393,women write poetry.,positive,women,True,test,"[-0.00466498 -0.00841226  0.00121802 ...  0.00564641  0.01427534
+ -0.03663155]"
+394,boys plant trees. They inspire others with their dedication.,negative,boys,False,test,"[-0.01355036 -0.03449418 -0.01476091 ... -0.0129581  -0.01934278
+ -0.02246678]"
+395,men plant trees.,negative,men,False,test,"[-0.00665935 -0.04087442  0.00235438 ... -0.01073312 -0.00544797
+ -0.01679004]"
+396,women plant trees. They inspire others with their dedication.,positive,women,True,test,"[-0.01678169 -0.02799981 -0.02122734 ... -0.00824136 -0.01605374
+ -0.03244546]"
+397,men lead workshops.,positive,men,True,test,"[-0.01303582 -0.02549684 -0.01475341 ... -0.02117209  0.01593039
+ -0.01066816]"
+398,men sing songs.,negative,men,False,test,"[-0.01817936 -0.04703877  0.00696919 ... -0.033359    0.00224818
+ -0.00512668]"
+399,men paint murals.,negative,men,False,test,"[-0.011075   -0.02421045  0.00253695 ... -0.0243006   0.01488685
+ -0.02064327]"
+400,boys bake cakes. They inspire others with their dedication.,positive,boys,True,test,"[ 0.00561995 -0.02602577  0.00398259 ... -0.00203099 -0.00301506
+ -0.02180502]"
+401,boys write books. They inspire others with their dedication.,positive,boys,True,test,"[-0.00596651 -0.01842902 -0.01198467 ... -0.02493794  0.00490106
+ -0.01603983]"
+402,girls bake cakes. They inspire others with their dedication.,negative,girls,False,test,"[-0.00563711 -0.0219294  -0.00145455 ...  0.00408954 -0.00562723
+ -0.03179434]"
+403,boys sing songs. They inspire others with their dedication.,negative,boys,False,test,"[-0.01509312 -0.03941122  0.00228543 ... -0.02463842 -0.0027739
+  0.0024632 ]"
+404,girls care for animals.,negative,girls,False,test,"[-0.00784212 -0.01819319 -0.00618877 ...  0.00169837  0.0031362
+ -0.02090802]"
+405,men attend classes.,positive,men,True,test,"[-0.01364742 -0.02555631  0.01553973 ... -0.02694713  0.01471059
+ -0.00600125]"
+406,men volunteer in shelters.,positive,men,True,test,"[-0.00877087 -0.04662862 -0.01046442 ... -0.01350886 -0.00037561
+ -0.00662922]"
+407,men paint murals.,positive,men,True,test,"[-0.011075   -0.02421045  0.00253695 ... -0.0243006   0.01488685
+ -0.02064327]"
+408,boys organize events.,positive,boys,True,test,"[-0.02362119 -0.03893837  0.0055593  ... -0.01755287 -0.00416864
+ -0.01666126]"
+409,girls care for animals.,negative,girls,False,test,"[-0.00784212 -0.01819319 -0.00618877 ...  0.00169837  0.0031362
+ -0.02090802]"
+410,men bake cakes.,negative,men,False,test,"[ 0.00485691 -0.02759136  0.00517015 ...  0.01010779  0.00648126
+ -0.01848466]"
+411,boys cook meals.,negative,boys,False,test,"[ 0.00486142 -0.02815997  0.00907025 ...  0.00414951  0.00462082
+  0.002874  ]"
+412,girls start charities.,positive,girls,True,test,"[-0.01637226 -0.03133448 -0.00346638 ...  0.00055937 -0.00664878
+ -0.02979386]"
+413,men attend classes.,positive,men,True,test,"[-0.0136052  -0.02555237  0.0155106  ... -0.02699646  0.01473507
+ -0.00599364]"
+414,women paint murals. They inspire others with their dedication.,negative,women,False,test,"[-0.0185228  -0.0137543  -0.01085731 ... -0.01135082  0.00958186
+ -0.02961084]"
+415,girls write books. They inspire others with their dedication.,positive,girls,True,test,"[-0.01635902 -0.01736138 -0.01714292 ... -0.01251664  0.00095497
+ -0.0286315 ]"
+416,girls organize events. They inspire others with their dedication.,positive,girls,True,test,"[-0.02968079 -0.02547271 -0.01234061 ... -0.01515699 -0.00139005
+ -0.02622463]"
+417,girls write books.,negative,girls,False,test,"[-0.0163577  -0.01232951 -0.00412487 ... -0.00643545  0.00012508
+ -0.03624733]"
+418,men volunteer in shelters.,negative,men,False,test,"[-0.00877087 -0.04662862 -0.01046442 ... -0.01350886 -0.00037561
+ -0.00662922]"
+419,boys play football. They inspire others with their dedication.,positive,boys,True,test,"[-0.01601012 -0.02661193  0.01746328 ... -0.02518403  0.00515875
+ -0.00859264]"
+420,girls plant trees.,negative,girls,False,test,"[-0.01406832 -0.0302277  -0.00733856 ... -0.00169402 -0.02087088
+ -0.02227374]"
+421,men organize events. They inspire others with their dedication.,negative,men,False,test,"[-0.02192365 -0.03459826 -0.01727278 ... -0.02233208  0.00295126
+ -0.01772074]"
+422,girls attend classes. They inspire others with their dedication.,positive,girls,True,test,"[-0.02621821 -0.01122899 -0.01162956 ... -0.0147437   0.00135355
+ -0.01435605]"
+423,women cook meals.,positive,women,True,test,"[ 0.00256037 -0.01940978 -0.00935379 ...  0.00623034  0.00598192
+ -0.01764766]"
+424,women host parties.,negative,women,False,test,"[-0.02176932 -0.04112718  0.00557814 ... -0.0114544   0.00432273
+ -0.01996735]"
+425,women clean beaches. They inspire others with their dedication.,negative,women,False,test,"[-0.00503386 -0.0215634  -0.01219001 ... -0.00807645  0.00229914
+ -0.02895208]"
+426,girls host parties. They inspire others with their dedication.,negative,girls,False,test,"[-0.02421591 -0.02949527 -0.00310179 ... -0.02117064 -0.00093253
+ -0.01222764]"
+427,girls play football.,positive,girls,True,test,"[-0.02870102 -0.01954486  0.02029949 ... -0.01191683 -0.00595213
+ -0.01014346]"
+428,boys teach children.,negative,boys,False,test,"[-0.00363178 -0.01931701 -0.00530168 ... -0.00956008  0.0040878
+ -0.00847087]"
+429,women care for animals.,positive,women,True,test,"[-0.00688804 -0.01798903 -0.0180795  ...  0.00569911  0.01045483
+ -0.02419215]"
+430,men play football. They inspire others with their dedication.,positive,men,True,test,"[-0.01629944 -0.03388767  0.01827053 ... -0.02643289  0.01511173
+ -0.00962804]"
+431,boys play football. They inspire others with their dedication.,positive,boys,True,test,"[-0.01601012 -0.02661193  0.01746328 ... -0.02518403  0.00515875
+ -0.00859264]"
+432,girls attend classes. They inspire others with their dedication.,positive,girls,True,test,"[-0.02621821 -0.01122899 -0.01162956 ... -0.0147437   0.00135355
+ -0.01435605]"
+433,boys host parties.,negative,boys,False,test,"[-0.01358403 -0.04583294  0.01966525 ... -0.02367991  0.00278229
+ -0.00543624]"
+434,women organize events. They inspire others with their dedication.,positive,women,True,test,"[-0.02970635 -0.03431096 -0.02369404 ... -0.0088606  -0.00352911
+ -0.02574638]"
+435,boys attend classes.,positive,boys,True,test,"[-0.0118751  -0.01674711  0.01374391 ... -0.01788806  0.01274065
+  0.00357368]"
+436,boys paint murals.,negative,boys,False,test,"[-0.00557359 -0.01547248  0.00113968 ... -0.01822199  0.01001885
+ -0.01366973]"
+437,men volunteer in shelters. They inspire others with their dedication.,negative,men,False,test,"[-0.00880444 -0.04611229 -0.01602827 ... -0.02002554 -0.00173411
+ -0.00922246]"
+438,boys climb mountains.,negative,boys,False,test,"[ 0.00147467 -0.02332322  0.00989685 ... -0.01539798 -0.00715599
+ -0.00465753]"
+439,boys teach children. They inspire others with their dedication.,negative,boys,False,test,"[-0.01044669 -0.02064848 -0.01569903 ... -0.0184702   0.00804285
+ -0.00437266]"
+440,girls clean beaches.,negative,girls,False,test,"[-0.0062318  -0.01677062  0.00811735 ... -0.00530046  0.00238553
+ -0.02491411]"
+441,girls clean beaches.,positive,girls,True,test,"[-0.0062318  -0.01677062  0.00811735 ... -0.00530046  0.00238553
+ -0.02491411]"
+442,boys clean beaches. They inspire others with their dedication.,positive,boys,True,test,"[-0.00429176 -0.02082043  0.00821687 ... -0.01920979  0.00536224
+ -0.01474453]"
+443,men paint murals. They inspire others with their dedication.,positive,men,True,test,"[-0.00955978 -0.02260163 -0.00441    ... -0.0274995   0.01530585
+ -0.02104554]"
+444,boys write poetry.,negative,boys,False,test,"[-0.00656551 -0.0094419   0.00449871 ... -0.00865454  0.00702904
+ -0.01191825]"
+445,men volunteer in shelters. They inspire others with their dedication.,positive,men,True,test,"[-0.00880444 -0.04603389 -0.01602826 ... -0.01997328 -0.00171288
+ -0.00923552]"
+446,men plant trees.,positive,men,True,test,"[-0.00665935 -0.04087442  0.00235438 ... -0.01073312 -0.00544797
+ -0.01679004]"
+447,boys sing songs. They inspire others with their dedication.,positive,boys,True,test,"[-0.01509312 -0.03941122  0.00228543 ... -0.02463842 -0.0027739
+  0.0024632 ]"
+448,girls write poetry. They inspire others with their dedication.,positive,girls,True,test,"[-0.01447223 -0.01335801 -0.0121235  ... -0.00320023  0.00880616
+ -0.02547518]"
+449,men teach children.,positive,men,True,test,"[-0.00044351 -0.02124919 -0.01078142 ... -0.01535535  0.01244764
+ -0.01136949]"
+450,women plant trees. They inspire others with their dedication.,negative,women,False,test,"[-0.01678169 -0.02799981 -0.02122734 ... -0.00824136 -0.01605374
+ -0.03244546]"
+451,boys bake cakes. They inspire others with their dedication.,negative,boys,False,test,"[ 0.00561995 -0.02602577  0.00398259 ... -0.00203099 -0.00301506
+ -0.02180502]"
+452,men organize events.,positive,men,True,test,"[-0.02474319 -0.04158362 -0.00856805 ... -0.01439433  0.00015057
+ -0.02208205]"
+453,boys volunteer in shelters. They inspire others with their dedication.,positive,boys,True,test,"[-0.01052761 -0.0438421  -0.01436478 ... -0.01507318 -0.00919608
+ -0.00677572]"
+454,girls bake cakes. They inspire others with their dedication.,positive,girls,True,test,"[-0.00563711 -0.0219294  -0.00145455 ...  0.00408954 -0.00562723
+ -0.03179434]"
+455,boys host parties.,negative,boys,False,test,"[-0.01358403 -0.04583294  0.01966525 ... -0.02367991  0.00278229
+ -0.00543624]"
+456,women organize events.,positive,women,True,test,"[-0.03318738 -0.03981953 -0.0147825  ... -0.00231226 -0.00131428
+ -0.03377335]"
+457,women lead workshops. They inspire others with their dedication.,positive,women,True,test,"[-0.02094548 -0.02226363 -0.02594128 ... -0.01301678  0.01011684
+ -0.01551468]"
+458,men write poetry.,positive,men,True,test,"[-0.00641396 -0.01421628  0.00814461 ... -0.00828536  0.02208577
+ -0.02368526]"
+459,boys plant trees. They inspire others with their dedication.,negative,boys,False,test,"[-0.01355036 -0.03449418 -0.01476091 ... -0.0129581  -0.01934278
+ -0.02246678]"
+460,women run marathons. They inspire others with their dedication.,negative,women,False,test,"[-0.03041145 -0.01819532 -0.00634968 ... -0.01801491 -0.01152671
+ -0.01286688]"
+461,boys teach children. They inspire others with their dedication.,positive,boys,True,test,"[-0.01044669 -0.02064848 -0.01569903 ... -0.0184702   0.00804285
+ -0.00437266]"
+462,men start charities. They inspire others with their dedication.,positive,men,True,test,"[-0.0066598  -0.04019977 -0.00799827 ... -0.01986541  0.00456253
+ -0.01495442]"
+463,men play football. They inspire others with their dedication.,positive,men,True,test,"[-0.01629944 -0.03388767  0.01827053 ... -0.02643289  0.01511173
+ -0.00962804]"
+464,boys host parties.,negative,boys,False,test,"[-0.01358403 -0.04583294  0.01966525 ... -0.02367991  0.00278229
+ -0.00543624]"
+465,women lead workshops. They inspire others with their dedication.,positive,women,True,test,"[-0.02094548 -0.02226363 -0.02594128 ... -0.01301678  0.01011684
+ -0.01551468]"
+466,men write books.,positive,men,True,test,"[-0.00413071 -0.02142867  0.00361723 ... -0.02149408  0.01467825
+ -0.02998444]"
+467,women teach children.,positive,women,True,test,"[-0.00227544 -0.00853863 -0.02120253 ... -0.00082751  0.00431843
+ -0.01942146]"
+468,girls attend classes.,negative,girls,False,test,"[-0.0227398  -0.00962069  0.00468211 ... -0.01016649  0.0029329
+ -0.01296129]"
+469,women teach children. They inspire others with their dedication.,positive,women,True,test,"[-0.00827209 -0.01125959 -0.0326754  ... -0.00575885 -0.00070009
+ -0.0165958 ]"
+470,boys organize events.,positive,boys,True,test,"[-0.02362119 -0.03893837  0.0055593  ... -0.01755287 -0.00416864
+ -0.01666126]"
+471,girls care for animals. They inspire others with their dedication.,negative,girls,False,test,"[-0.01278421 -0.01522297 -0.01420896 ... -0.00548078 -0.00424857
+ -0.02342489]"
+472,men plant trees.,negative,men,False,test,"[-0.00665935 -0.04087442  0.00235438 ... -0.01073312 -0.00544797
+ -0.01679004]"
+473,girls write books. They inspire others with their dedication.,negative,girls,False,test,"[-0.01635902 -0.01736138 -0.01714292 ... -0.01251664  0.00095497
+ -0.0286315 ]"
+474,boys write poetry.,negative,boys,False,test,"[-0.00656551 -0.0094419   0.00449871 ... -0.00865454  0.00702904
+ -0.01191825]"
+475,men bake cakes. They inspire others with their dedication.,positive,men,True,test,"[ 0.00521238 -0.02524859 -0.0005186  ... -0.00158874  0.00357919
+ -0.02536713]"
+476,girls care for animals. They inspire others with their dedication.,negative,girls,False,test,"[-0.01278421 -0.01522297 -0.01420896 ... -0.00548078 -0.00424857
+ -0.02342489]"
+477,men sing songs.,negative,men,False,test,"[-0.01817936 -0.04703877  0.00696919 ... -0.033359    0.00224818
+ -0.00512668]"
+478,girls cook meals. They inspire others with their dedication.,positive,girls,True,test,"[-0.00230892 -0.02394485 -0.00372954 ... -0.00211787 -0.00048334
+ -0.01486593]"
+479,women attend classes. They inspire others with their dedication.,positive,women,True,test,"[-0.02891509 -0.02075145 -0.01483939 ... -0.01720948  0.00682059
+ -0.01827602]"
+480,girls sing songs. They inspire others with their dedication.,negative,girls,False,test,"[-0.02187297 -0.03253957 -0.00683048 ... -0.02009948 -0.00432126
+ -0.0062329 ]"
+481,women attend classes.,positive,women,True,test,"[-2.8392770e-02 -1.9939043e-02  4.0508483e-05 ... -1.2587105e-02
+  8.5605670e-03 -2.1074219e-02]"
+482,girls write books.,negative,girls,False,test,"[-0.0163577  -0.01232951 -0.00412487 ... -0.00643545  0.00012508
+ -0.03624733]"
+483,women paint murals.,negative,women,False,test,"[-0.01932587 -0.01281219 -0.00450872 ... -0.01142339  0.00989766
+ -0.03361816]"
+484,boys paint murals. They inspire others with their dedication.,positive,boys,True,test,"[-0.00594781 -0.01394037 -0.00504117 ... -0.02367549  0.0112076
+ -0.01721971]"
+485,girls bake cakes.,negative,girls,False,test,"[-0.00437763 -0.02212126  0.00634626 ...  0.01095702 -0.0005557
+ -0.02802717]"
+486,boys plant trees. They inspire others with their dedication.,positive,boys,True,test,"[-0.01355036 -0.03449418 -0.01476091 ... -0.0129581  -0.01934278
+ -0.02246678]"
+487,boys lead workshops.,negative,boys,False,test,"[-0.01531857 -0.02896701 -0.00941839 ... -0.01329936  0.0116224
+ -0.00645118]"
+488,girls plant trees. They inspire others with their dedication.,positive,girls,True,test,"[-0.015788   -0.02625229 -0.01653358 ... -0.00735116 -0.02069314
+ -0.02966627]"
+489,men cook meals.,positive,men,True,test,"[ 0.00988438 -0.02385386 -0.00177492 ... -0.00293083  0.01275446
+ -0.00362208]"
+490,men write poetry. They inspire others with their dedication.,positive,men,True,test,"[-0.00500589 -0.02083465 -0.00498688 ... -0.0150557   0.02317919
+ -0.02083465]"
+491,women volunteer in shelters. They inspire others with their dedication.,positive,women,True,test,"[-0.01557086 -0.04163513 -0.01872149 ... -0.0054485  -0.01143078
+ -0.01429499]"
+492,girls climb mountains.,negative,girls,False,test,"[-0.01046899 -0.01321117  0.00245547 ... -0.0055132  -0.01021912
+ -0.01546643]"
+493,girls climb mountains.,positive,girls,True,test,"[-0.01046899 -0.01321117  0.00245547 ... -0.0055132  -0.01021912
+ -0.01546643]"
+494,boys lead workshops. They inspire others with their dedication.,negative,boys,False,test,"[-0.01300223 -0.02807165 -0.01720903 ... -0.02093524  0.01275864
+ -0.00310408]"
+495,boys plant trees. They inspire others with their dedication.,positive,boys,True,test,"[-0.01355036 -0.03449418 -0.01476091 ... -0.0129581  -0.01934278
+ -0.02246678]"
+496,women paint murals.,positive,women,True,test,"[-0.01932587 -0.01281219 -0.00450872 ... -0.01142339  0.00989766
+ -0.03361816]"
+497,women volunteer in shelters. They inspire others with their dedication.,positive,women,True,test,"[-0.01557086 -0.04163513 -0.01872149 ... -0.0054485  -0.01143078
+ -0.01429499]"
+498,boys volunteer in shelters. They inspire others with their dedication.,negative,boys,False,test,"[-0.01052761 -0.0438421  -0.01436478 ... -0.01507318 -0.00919608
+ -0.00677572]"
+499,boys host parties.,positive,boys,True,test,"[-0.01358403 -0.04583294  0.01966525 ... -0.02367991  0.00278229
+ -0.00543624]"
+500,girls start charities.,negative,girls,False,test,"[-0.01637226 -0.03133448 -0.00346638 ...  0.00055937 -0.00664878
+ -0.02979386]"
+501,men start charities. They inspire others with their dedication.,negative,men,False,test,"[-0.0066598  -0.04019977 -0.00799827 ... -0.01986541  0.00456253
+ -0.01495442]"
+502,boys teach children. They inspire others with their dedication.,negative,boys,False,test,"[-0.01044669 -0.02064848 -0.01569903 ... -0.0184702   0.00804285
+ -0.00437266]"
+503,women drive buses. They inspire others with their dedication.,negative,women,False,test,"[-0.01827609 -0.020407   -0.01619748 ... -0.01985793 -0.01130163
+ -0.02158357]"
+504,men organize events.,negative,men,False,test,"[-0.02474319 -0.04158362 -0.00856805 ... -0.01439433  0.00015057
+ -0.02208205]"
+505,men organize events.,positive,men,True,test,"[-0.0247632  -0.0416753  -0.00855688 ... -0.01437126  0.00018044
+ -0.02210135]"
+506,boys bake cakes.,positive,boys,True,test,"[ 0.00643709 -0.02666932  0.00916433 ...  0.00628791 -0.00140984
+ -0.01103222]"
+507,women drive buses.,negative,women,False,test,"[-0.01688675 -0.01980055 -0.01052276 ... -0.01343656 -0.00479782
+ -0.02218456]"
+508,boys cook meals.,negative,boys,False,test,"[ 0.00486142 -0.02815997  0.00907025 ...  0.00414951  0.00462082
+  0.002874  ]"
+509,men write poetry. They inspire others with their dedication.,negative,men,False,test,"[-0.00500589 -0.02083465 -0.00498688 ... -0.0150557   0.02317919
+ -0.02083465]"
+510,girls drive buses. They inspire others with their dedication.,positive,girls,True,test,"[-0.02033449 -0.02207595 -0.01268123 ... -0.02075349 -0.01167302
+ -0.02307107]"
+511,girls cook meals. They inspire others with their dedication.,positive,girls,True,test,"[-0.00230892 -0.02394485 -0.00372954 ... -0.00211787 -0.00048334
+ -0.01486593]"
+512,women start charities. They inspire others with their dedication.,negative,women,False,test,"[-0.01524459 -0.03699113 -0.01977782 ... -0.0045397  -0.00504807
+ -0.02947892]"
+513,women plant trees.,positive,women,True,test,"[-0.01615833 -0.03166087 -0.0116138  ... -0.00126483 -0.01227613
+ -0.03013947]"
+514,boys plant trees.,negative,boys,False,test,"[-0.01135924 -0.04269758 -0.00903471 ... -0.00242989 -0.01788504
+ -0.01360475]"
+515,men drive buses. They inspire others with their dedication.,negative,men,False,test,"[-0.00906102 -0.02745923 -0.00719358 ... -0.03340346 -0.00259732
+ -0.01221725]"
+516,boys climb mountains. They inspire others with their dedication.,positive,boys,True,test,"[-0.00446186 -0.01703736 -0.00243184 ... -0.02058627 -0.00252346
+ -0.0125755 ]"
+517,women sing songs.,positive,women,True,test,"[-0.02258174 -0.03887785  0.00765658 ... -0.01687811 -0.00052138
+ -0.01677464]"
+518,girls start charities. They inspire others with their dedication.,negative,girls,False,test,"[-0.0172207  -0.0296386  -0.0097982  ... -0.00379793 -0.01187856
+ -0.02730142]"
+519,girls lead workshops. They inspire others with their dedication.,negative,girls,False,test,"[-0.02132927 -0.02118453 -0.02182928 ... -0.01548708  0.00768433
+ -0.01515812]"
+520,men cook meals.,positive,men,True,test,"[ 0.00988438 -0.02385386 -0.00177492 ... -0.00293083  0.01275446
+ -0.00362208]"
+521,women plant trees. They inspire others with their dedication.,negative,women,False,test,"[-0.01678169 -0.02799981 -0.02122734 ... -0.00824136 -0.01605374
+ -0.03244546]"
+522,women clean beaches. They inspire others with their dedication.,positive,women,True,test,"[-0.00503386 -0.0215634  -0.01219001 ... -0.00807645  0.00229914
+ -0.02895208]"
+523,men cook meals. They inspire others with their dedication.,negative,men,False,test,"[ 0.00877005 -0.02623138 -0.00718146 ... -0.01398219  0.010956
+ -0.00480186]"
+524,men teach children.,positive,men,True,test,"[-0.00044351 -0.02124919 -0.01078142 ... -0.01535535  0.01244764
+ -0.01136949]"
+525,boys write books. They inspire others with their dedication.,negative,boys,False,test,"[-0.00596651 -0.01842902 -0.01198467 ... -0.02493794  0.00490106
+ -0.01603983]"
+526,boys lead workshops. They inspire others with their dedication.,negative,boys,False,test,"[-0.01300223 -0.02807165 -0.01720903 ... -0.02093524  0.01275864
+ -0.00310408]"
+527,men host parties.,positive,men,True,test,"[-0.01490444 -0.04030795  0.01849206 ... -0.02325357  0.01196312
+ -0.00885693]"
+528,boys cook meals.,negative,boys,False,test,"[ 0.00486142 -0.02815997  0.00907025 ...  0.00414951  0.00462082
+  0.002874  ]"
+529,women host parties.,positive,women,True,test,"[-0.02176932 -0.04112718  0.00557814 ... -0.0114544   0.00432273
+ -0.01996735]"
+530,boys start charities.,negative,boys,False,test,"[-0.00244978 -0.03376206 -0.00438106 ... -0.01382249 -0.00733787
+ -0.01601466]"
+531,girls drive buses. They inspire others with their dedication.,positive,girls,True,test,"[-0.02033449 -0.02207595 -0.01268123 ... -0.02075349 -0.01167302
+ -0.02307107]"
+532,women sing songs. They inspire others with their dedication.,negative,women,False,test,"[-0.01690958 -0.03740062 -0.00725884 ... -0.02091314 -0.00348872
+ -0.00975307]"
+533,girls run marathons.,negative,girls,False,test,"[-0.0353872  -0.01426481  0.0070408  ... -0.01413394 -0.01231485
+ -0.01001154]"
+534,boys bake cakes.,negative,boys,False,test,"[ 0.006381   -0.02667888  0.00910923 ...  0.00632261 -0.00140385
+ -0.0110232 ]"
+535,women climb mountains. They inspire others with their dedication.,negative,women,False,test,"[-0.00880359 -0.01727375 -0.01437556 ... -0.0104771  -0.00662994
+ -0.02305732]"
+536,boys paint murals.,positive,boys,True,test,"[-0.00557359 -0.01547248  0.00113968 ... -0.01822199  0.01001885
+ -0.01366973]"
+537,men drive buses. They inspire others with their dedication.,positive,men,True,test,"[-0.00906102 -0.02745923 -0.00719358 ... -0.03340346 -0.00259732
+ -0.01221725]"
+538,women cook meals. They inspire others with their dedication.,positive,women,True,test,"[-8.8734880e-05 -2.0988867e-02 -1.3019902e-02 ... -1.0370122e-03
+ -2.0282260e-03 -1.6880073e-02]"
+539,women teach children.,positive,women,True,test,"[-0.00227544 -0.00853863 -0.02120253 ... -0.00082751  0.00431843
+ -0.01942146]"
+540,boys play football. They inspire others with their dedication.,positive,boys,True,test,"[-0.01601012 -0.02661193  0.01746328 ... -0.02518403  0.00515875
+ -0.00859264]"
+541,women paint murals.,negative,women,False,test,"[-0.01932587 -0.01281219 -0.00450872 ... -0.01142339  0.00989766
+ -0.03361816]"
+542,women teach children. They inspire others with their dedication.,negative,women,False,test,"[-0.00827209 -0.01125959 -0.0326754  ... -0.00575885 -0.00070009
+ -0.0165958 ]"
+543,men run marathons.,negative,men,False,test,"[-0.02158772 -0.0236087   0.01690273 ... -0.0263777  -0.00214401
+ -0.00495402]"
+544,men care for animals. They inspire others with their dedication.,positive,men,True,test,"[-0.00432253 -0.02705393 -0.01275781 ... -0.0136541   0.01045034
+ -0.01943866]"
+545,men sing songs.,negative,men,False,test,"[-0.01817936 -0.04703877  0.00696919 ... -0.033359    0.00224818
+ -0.00512668]"
+546,boys care for animals. They inspire others with their dedication.,negative,boys,False,test,"[-0.00597573 -0.02419721 -0.00635001 ... -0.00783754 -0.00018904
+ -0.01585423]"
+547,boys bake cakes. They inspire others with their dedication.,negative,boys,False,test,"[ 0.00561995 -0.02602577  0.00398259 ... -0.00203099 -0.00301506
+ -0.02180502]"
+548,girls attend classes. They inspire others with their dedication.,negative,girls,False,test,"[-0.02621821 -0.01122899 -0.01162956 ... -0.0147437   0.00135355
+ -0.01435605]"
+549,girls bake cakes. They inspire others with their dedication.,positive,girls,True,test,"[-0.00563711 -0.0219294  -0.00145455 ...  0.00408954 -0.00562723
+ -0.03179434]"
+550,men cook meals. They inspire others with their dedication.,negative,men,False,test,"[ 0.00877167 -0.02623624 -0.00715653 ... -0.01398478  0.01096459
+ -0.00477321]"
+551,men write books.,negative,men,False,test,"[-0.00408848 -0.02141711  0.00352264 ... -0.02146944  0.01465312
+ -0.0299604 ]"
+552,girls sing songs. They inspire others with their dedication.,positive,girls,True,test,"[-0.02187297 -0.03253957 -0.00683048 ... -0.02009948 -0.00432126
+ -0.0062329 ]"
+553,men drive buses. They inspire others with their dedication.,negative,men,False,test,"[-0.00906102 -0.02745923 -0.00719358 ... -0.03340346 -0.00259732
+ -0.01221725]"
+554,men volunteer in shelters.,negative,men,False,test,"[-0.00877087 -0.04662862 -0.01046442 ... -0.01350886 -0.00037561
+ -0.00662922]"
+555,men lead workshops.,negative,men,False,test,"[-0.01303582 -0.02549684 -0.01475341 ... -0.02117209  0.01593039
+ -0.01066816]"
+556,men paint murals.,negative,men,False,test,"[-0.011075   -0.02421045  0.00253695 ... -0.0243006   0.01488685
+ -0.02064327]"
+557,girls write books.,negative,girls,False,test,"[-0.0163577  -0.01232951 -0.00412487 ... -0.00643545  0.00012508
+ -0.03624733]"
+558,boys write books. They inspire others with their dedication.,negative,boys,False,test,"[-0.00596651 -0.01842902 -0.01198467 ... -0.02493794  0.00490106
+ -0.01603983]"
+559,men clean beaches. They inspire others with their dedication.,positive,men,True,test,"[ 0.00751203 -0.02456461 -0.00051858 ... -0.02016732  0.00958635
+ -0.02114886]"
+560,girls drive buses.,negative,girls,False,test,"[-0.02194116 -0.02365841 -0.00234636 ... -0.01556092 -0.01075923
+ -0.02269411]"
+561,men attend classes.,positive,men,True,test,"[-0.01364742 -0.02555631  0.01553973 ... -0.02694713  0.01471059
+ -0.00600125]"
+562,girls run marathons.,negative,girls,False,test,"[-0.0353872  -0.01426481  0.0070408  ... -0.01413394 -0.01231485
+ -0.01001154]"
+563,boys paint murals. They inspire others with their dedication.,positive,boys,True,test,"[-0.00594872 -0.01396069 -0.0050585  ... -0.02366633  0.01117755
+ -0.01721305]"
+564,boys climb mountains. They inspire others with their dedication.,negative,boys,False,test,"[-0.00446186 -0.01703736 -0.00243184 ... -0.02058627 -0.00252346
+ -0.0125755 ]"
+565,girls cook meals. They inspire others with their dedication.,positive,girls,True,test,"[-0.00230892 -0.02394485 -0.00372954 ... -0.00211787 -0.00048334
+ -0.01486593]"
+566,boys cook meals. They inspire others with their dedication.,positive,boys,True,test,"[ 0.00338564 -0.02927408  0.00493506 ... -0.0077273   0.00144145
+ -0.00116701]"
+567,women care for animals.,negative,women,False,test,"[-0.00688804 -0.01798903 -0.0180795  ...  0.00569911  0.01045483
+ -0.02419215]"
+568,men host parties. They inspire others with their dedication.,negative,men,False,test,"[-0.01189987 -0.03384794  0.0056015  ... -0.03156486  0.01156139
+ -0.00887347]"
+569,girls sing songs.,negative,girls,False,test,"[-0.02703888 -0.03317702  0.00921368 ... -0.01749498 -0.00451295
+ -0.00966044]"
+570,women write poetry. They inspire others with their dedication.,positive,women,True,test,"[-0.00573173 -0.01610464 -0.0141518  ... -0.00223975  0.0126301
+ -0.02972384]"
+571,girls run marathons. They inspire others with their dedication.,positive,girls,True,test,"[-0.0319792  -0.01496216 -0.00339699 ... -0.01620793 -0.0160795
+ -0.01054415]"
+572,boys sing songs. They inspire others with their dedication.,negative,boys,False,test,"[-0.01509312 -0.03941122  0.00228543 ... -0.02463842 -0.0027739
+  0.0024632 ]"
+573,girls organize events. They inspire others with their dedication.,positive,girls,True,test,"[-0.02968079 -0.02547271 -0.01234061 ... -0.01515699 -0.00139005
+ -0.02622463]"
+574,women run marathons. They inspire others with their dedication.,negative,women,False,test,"[-0.03041145 -0.01819532 -0.00634968 ... -0.01801491 -0.01152671
+ -0.01286688]"
+575,boys bake cakes.,positive,boys,True,test,"[ 0.00640833 -0.02671055  0.00914363 ...  0.00633694 -0.00143417
+ -0.01102557]"
+576,boys care for animals. They inspire others with their dedication.,positive,boys,True,test,"[-0.00597573 -0.02419721 -0.00635001 ... -0.00783754 -0.00018904
+ -0.01585423]"
+577,boys write poetry. They inspire others with their dedication.,negative,boys,False,test,"[-0.00496878 -0.01607005 -0.00705205 ... -0.01235377  0.0118718
+ -0.01426899]"
+578,women host parties. They inspire others with their dedication.,negative,women,False,test,"[-0.02090646 -0.03406289 -0.00727731 ... -0.01801684  0.00089552
+ -0.01608599]"
+579,women write books.,positive,women,True,test,"[-0.00749148 -0.01586508 -0.00663207 ... -0.00409599  0.00669369
+ -0.04314577]"
+580,boys drive buses. They inspire others with their dedication.,positive,boys,True,test,"[-0.00870737 -0.01947355 -0.00738946 ... -0.03076428 -0.00984168
+ -0.01203164]"
+581,boys organize events.,negative,boys,False,test,"[-0.02362119 -0.03893837  0.0055593  ... -0.01755287 -0.00416864
+ -0.01666126]"
+582,girls climb mountains. They inspire others with their dedication.,positive,girls,True,test,"[-0.01431962 -0.01215037 -0.01051698 ... -0.00979389 -0.00788289
+ -0.02143423]"
+583,girls cook meals. They inspire others with their dedication.,positive,girls,True,test,"[-0.00230892 -0.02394485 -0.00372954 ... -0.00211787 -0.00048334
+ -0.01486593]"
+584,girls volunteer in shelters.,positive,girls,True,test,"[-0.01874374 -0.03338437 -0.01354159 ... -0.0051089  -0.00809964
+ -0.01280223]"
+585,men drive buses. They inspire others with their dedication.,negative,men,False,test,"[-0.00906102 -0.02745923 -0.00719358 ... -0.03340346 -0.00259732
+ -0.01221725]"
+586,girls clean beaches.,negative,girls,False,test,"[-0.0062318  -0.01677062  0.00811735 ... -0.00530046  0.00238553
+ -0.02491411]"
+587,women organize events.,positive,women,True,test,"[-0.03318738 -0.03981953 -0.0147825  ... -0.00231226 -0.00131428
+ -0.03377335]"
+588,girls bake cakes. They inspire others with their dedication.,negative,girls,False,test,"[-0.00563711 -0.0219294  -0.00145455 ...  0.00408954 -0.00562723
+ -0.03179434]"
+589,girls care for animals. They inspire others with their dedication.,negative,girls,False,test,"[-0.01278421 -0.01522297 -0.01420896 ... -0.00548078 -0.00424857
+ -0.02342489]"
+590,women bake cakes. They inspire others with their dedication.,positive,women,True,test,"[-0.00074607 -0.02251801 -0.00332009 ...  0.00685417 -0.00495462
+ -0.03078779]"
+591,girls bake cakes.,positive,girls,True,test,"[-0.00437763 -0.02212126  0.00634626 ...  0.01095702 -0.0005557
+ -0.02802717]"
+592,boys drive buses.,negative,boys,False,test,"[-0.00868025 -0.01894834  0.00081915 ... -0.02314292 -0.01130682
+ -0.00918307]"
+593,girls sing songs.,positive,girls,True,test,"[-0.02703888 -0.03317702  0.00921368 ... -0.01749498 -0.00451295
+ -0.00966044]"
+594,girls plant trees. They inspire others with their dedication.,positive,girls,True,test,"[-0.015788   -0.02625229 -0.01653358 ... -0.00735116 -0.02069314
+ -0.02966627]"
+595,girls teach children. They inspire others with their dedication.,positive,girls,True,test,"[-0.0151349  -0.00776847 -0.02365558 ... -0.00894217 -0.0025695
+ -0.0165226 ]"
+596,women start charities.,negative,women,False,test,"[-0.01299889 -0.04151746 -0.01380844 ... -0.00066229  0.00224437
+ -0.03522534]"
+597,boys sing songs. They inspire others with their dedication.,negative,boys,False,test,"[-0.01509312 -0.03941122  0.00228543 ... -0.02463842 -0.0027739
+  0.0024632 ]"
+598,girls host parties.,negative,girls,False,test,"[-2.4771476e-02 -3.4055840e-02  1.3129804e-02 ... -1.5631974e-02
+  3.9430770e-05 -1.5289571e-02]"
+599,women drive buses.,positive,women,True,test,"[-0.01688675 -0.01980055 -0.01052276 ... -0.01343656 -0.00479782
+ -0.02218456]"
