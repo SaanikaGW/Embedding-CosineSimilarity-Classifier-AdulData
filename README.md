@@ -1,4 +1,4 @@
-# Embedding-CosineSimilarity-Classifier-AdulData
+# Embedding-CosineSimilarity-Classifier-AdultData
 Embedding&amp;CosineSimilarity and Classifier Functions + Adult Data overview
 
 # Gender Bias in Text Embeddings & Census Income Models
